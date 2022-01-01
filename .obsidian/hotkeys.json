@@ -1,13 +1,5 @@
 {
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "+"
-    }
-  ],
+  "obsidian-git:commit": [],
   "obsidian-git:pull": [
     {
       "modifiers": [
@@ -24,6 +16,15 @@
         "Shift"
       ],
       "key": "/"
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "+"
     }
   ]
 }

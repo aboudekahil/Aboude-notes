@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "733f6b1bc5bf2994",
+        "id": "4ca43fa451de6b17",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Univerisity/CSIS200/Arrays.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -44,14 +47,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "8f82fd5d38912327",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
@@ -73,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Univerisity/CSIS200/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,22 +80,15 @@
             }
           },
           {
-            "id": "5c7cec2c17d51542",
+            "id": "7b3afac68b361d02",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Univerisity/CSIS200/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "2553cfbf8f6e47f9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
             }
           }
         ]
@@ -109,8 +98,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "733f6b1bc5bf2994",
+  "active": "4ca43fa451de6b17",
   "lastOpenFiles": [
+    "Univerisity/CSIS200/Arrays.md",
+    "Univerisity/CSIS200/!Reference list.md",
+    "conflict-files-obsidian-git.md",
     "test.md"
   ]
 }

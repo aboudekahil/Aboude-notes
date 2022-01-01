@@ -1,9 +1,0 @@
-# HIIIIII
-
-sex
-
-LMAO
-
-pp
-KES OMAK
-HAYRI BI RABAK

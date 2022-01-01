@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4ca43fa451de6b17",
+        "id": "733f6b1bc5bf2994",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Univerisity/CSIS200/Arrays.md",
-            "mode": "preview"
+            "file": "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
+            "mode": "source"
           }
         }
       }
@@ -47,6 +47,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "8f82fd5d38912327",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univerisity/CSIS200/Arrays.md",
+                "file": "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,15 +88,33 @@
             }
           },
           {
-            "id": "7b3afac68b361d02",
+            "id": "5c7cec2c17d51542",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univerisity/CSIS200/Arrays.md",
+                "file": "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "2553cfbf8f6e47f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Univerisity/Schedules/My Spring Schedule 2021-2022.md"
+              }
+            }
+          },
+          {
+            "id": "f93eae85f5c3c872",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -98,11 +124,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ca43fa451de6b17",
+  "active": "733f6b1bc5bf2994",
   "lastOpenFiles": [
-    "Univerisity/CSIS200/Arrays.md",
-    "Univerisity/CSIS200/!Reference list.md",
-    "conflict-files-obsidian-git.md",
+    "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
+    "Univerisity/Schedules/My Fall Schedule 2021-2022.md",
+    "University/MATH201/!Reference List.md",
+    "Univerisity/MATH201/Calculating Limits of Sequences.md",
+    "Univerisity/MATH201/!Reference List.md",
+    "Univerisity/MATH201/Alternating series.md",
+    "Univerisity/CSIS200/Comments.md",
     "test.md"
   ]
 }

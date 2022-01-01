@@ -1,0 +1,15 @@
+{
+  "snippets_file": "head : ### <span style=\"color: #ff5545;text-transform: capitalize;\">$end$</span>\n\nrelevant : ## Relevant $nl$\n\nsyntax : ```ad-example$nl$title:Syntax$nl$",
+  "snippets": [
+    "head : ### <span style=\"color: #ff5545;text-transform: capitalize;\">$end$</span>",
+    "relevant : ## Relevant $nl$\n",
+    "syntax : ```ad-example$nl$title:Syntax$nl$"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": false,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/"
+}

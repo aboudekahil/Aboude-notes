@@ -3,5 +3,17 @@
   "obsidian-admonition",
   "table-editor-obsidian",
   "better-fn",
-  "better-word-count"
+  "better-word-count",
+  "calendar",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-latex",
+  "file-explorer-note-count",
+  "find-and-replace-in-selection",
+  "obsidian-icons-plugin",
+  "nldates-obsidian",
+  "oz-image-plugin",
+  "url-into-selection",
+  "obsidian-reading-time",
+  "obsidian-smart-typography",
+  "text-snippets-obsidian"
 ]

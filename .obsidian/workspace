@@ -7,8 +7,11 @@
         "id": "733f6b1bc5bf2994",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "test.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +87,7 @@
     "collapsed": true
   },
   "active": "733f6b1bc5bf2994",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "test.md"
+  ]
 }

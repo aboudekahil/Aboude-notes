@@ -10,6 +10,14 @@
           "type": "empty",
           "state": {}
         }
+      },
+      {
+        "id": "4ca43fa451de6b17",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -82,8 +90,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "733f6b1bc5bf2994",
+  "active": "4ca43fa451de6b17",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "test.md"
   ]
 }

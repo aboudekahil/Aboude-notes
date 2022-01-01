@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "table-editor-obsidian",
+  "better-fn",
+  "better-word-count"
 ]

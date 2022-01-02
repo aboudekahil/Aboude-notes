@@ -28,4 +28,28 @@ title:Syntax
 ```
 
 Expressions are limited. They have to immediately return a value, and they cannot contain [[Variables|variables]], assignments or statements such as [[If statements|if]] or [[For loops|for]]. In order to do more complex operations, a code block can be used with curly braces. If the lambda expression needs to return a value, then the code block should have a `return` statement.
+```ad-example
+```java
+(parameter1, parameter2) -> {code block}
+```
+
+### <span style="color: #ff5545;text-transform: capitalize;">Using lambda expressions</span>
+Lambda expressions are usually passed as parameters to a [[Methods|function]]:
+```ad-example
+Use a lamba expression in the `ArrayList`'s `forEach()` method to print every item in the list:
+```java
+import java.util.ArrayList;
+
+public class Main {
+  public static void main(String[] args) {
+    ArrayList<Integer> numbers = new ArrayList<Integer>();
+    numbers.add(5);
+    numbers.add(9);
+    numbers.add(8);
+    numbers.add(1);
+    numbers.forEach( (n) -> { System.out.println(n); } );
+  }
+}
+```
+
 ## Reference

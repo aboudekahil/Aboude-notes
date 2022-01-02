@@ -27,5 +27,16 @@ Object-oriented programming has several advantages over procedural programming:
 The "Don't Repeat Yourself" (DRY) principle is about reducing the repetition of code. You should extract out the codes that are common for the application, and place them at a single place and reuse them instead of repeating it
 ```
 
+### <span style="color: #ff5545;text-transform: capitalize;">What are classes?</span>
+Classes and objects are the two main aspects of object-oriented programming.
+
+Look at the following illustration to see the difference between class and objects:
+
+| Class  | Objects |
+|:------:| ------- |
+| Fruits | Apple   |
+|        | Banana  |
+|        | Mango   |
 
 ## Reference
+[[Classes]]

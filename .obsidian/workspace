@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "733f6b1bc5bf2994",
+        "id": "3ad94fff3f7c6b61",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Univerisity/CSIS200/Keywords.md",
-            "mode": "preview"
+            "file": "Univerisity/CSIS215/OOP introduction.md",
+            "mode": "source"
           }
         }
       }
@@ -55,12 +55,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "733f6b1bc5bf2994",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 222,
+    "collapsed": true
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -76,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univerisity/CSIS200/Keywords.md",
+                "file": "Univerisity/CSIS215/OOP introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univerisity/CSIS200/Keywords.md",
+                "file": "Univerisity/CSIS215/OOP introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univerisity/CSIS200/Keywords.md"
+                "file": "Univerisity/CSIS215/OOP introduction.md"
               }
             }
           },
@@ -124,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "733f6b1bc5bf2994",
+  "active": "3ad94fff3f7c6b61",
   "lastOpenFiles": [
+    "Univerisity/CSIS215/OOP introduction.md",
+    "Univerisity/CSIS215/Classes.md",
+    "Univerisity/MATH201/!Reference List.md",
+    "Univerisity/CSIS215/!Reference list.md",
     "Univerisity/CSIS200/Keywords.md",
     "Univerisity/MATH201/Table of integration formulas.md",
-    "Univerisity/MATH201/!Reference List.md",
-    "OOP introduction.md",
-    "Univerisity/CSIS215/!Reference list.md",
     "Univerisity/Schedules/My Fall Schedule 2021-2022.md",
     "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
     "University/MATH201/!Reference List.md",
-    "Univerisity/MATH201/Calculating Limits of Sequences.md",
-    "Univerisity/MATH201/Alternating series.md"
+    "Univerisity/MATH201/Calculating Limits of Sequences.md"
   ]
 }

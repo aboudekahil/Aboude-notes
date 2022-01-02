@@ -61,5 +61,18 @@ public class Main {
 }
 ```
 
+### <span style="color: #ff5545;text-transform: capitalize;">Multiple classes</span>
+You can also create an object of a class and access it in another class. This is often used for better organization of classes (one class has all the attributes and [[Methods|methods]], while the other class holds the `main()` method (code to be executed)).
+
+```ad-example
+```java
+public class Main{
+	Second myObj = new Second();
+}
+class Second{
+	int x = 5;
+}
+```
+
 ## Reference
 [[Methods]] | [[Keywords]] | [[Java Syntax]]

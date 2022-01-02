@@ -10,7 +10,7 @@ Last Modified: 2021-12-05-22:55
 ---
 
 ## What are variables?
-Variables are like a storage tool used in programming languages to store different values that we may want to use later. They are used inside [[Methods|methods]] and [[Classes|classes]]
+Variables are like a storage tool used in programming languages to store different values that we may want to use later. They are used inside [[Methods|methods]] and [[Classes and Objects|classes]]
 
 ---
 

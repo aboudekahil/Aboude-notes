@@ -18,7 +18,7 @@ Methods are used to perform certain actions, and they are also known as **functi
 
 Why use methods? To reuse code: define the code once, and use it many times.
 
-A method must be declared within a [[Classes|class]]. It is defined with the name of the method, followed by parentheses **`()`**. Java provides some pre-defined methods, such as [[Java Syntax#span style color ff5545 text-transform capitalize println span|System.out.println()]], but you can also create your own methods to perform certain actions.
+A method must be declared within a [[Classes and Objects|class]]. It is defined with the name of the method, followed by parentheses **`()`**. Java provides some pre-defined methods, such as [[Java Syntax#span style color ff5545 text-transform capitalize println span|System.out.println()]], but you can also create your own methods to perform certain actions.
 
 ```ad-example
 title:Syntax
@@ -278,4 +278,4 @@ Since the function does not call itself when `k` is 0, the program stops there a
 Just as [[Loops|loops]] can run into the problem of infinite looping, recursive functions can run into the problem of infinite recursion. Infinite recursion is when the function never stops calling itself. Every recursive function should have a halting condition, which is the condition where the function stops calling itself. In the previous example, the halting condition is when the parameter `k` becomes 0.
 
 ## Relevant 
-[[Classes]] | [[Java Syntax]] | [[Identifiers]] | [[Variables]] | [[Strings]] | [[Variable types]] | [[Keywords]] | [[Loops]]
+[[Classes and Objects]] | [[Java Syntax]] | [[Identifiers]] | [[Variables]] | [[Strings]] | [[Variable types]] | [[Keywords]] | [[Loops]]

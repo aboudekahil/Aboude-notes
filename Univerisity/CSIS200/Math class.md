@@ -11,7 +11,7 @@ ___
 
 ### <span style="color: #ff5545;text-transform: capitalize;">What is the math class?</span>
 
-The Java Math [[Classes|class]] has many [[Methods|methods]] that allows you to perform mathematical tasks on [[Numbers]].
+The Java Math [[Classes and Objects|class]] has many [[Methods|methods]] that allows you to perform mathematical tasks on [[Numbers]].
 
 ```ad-warning
 When using the math class be sure to write `Math` with the `M`  capitalized. 
@@ -51,4 +51,4 @@ int randomNum = (int)(Math.random() * 101);  // 0 to 100
 ```
 
 ## Relevant 
-[[Numbers]] | [[Classes]] | [[Methods]]
+[[Numbers]] | [[Classes and Objects]] | [[Methods]]

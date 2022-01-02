@@ -8,7 +8,7 @@ Last Modified: 2021-12-04-20:54
 
 ---
 ### <span style="color: #ff5545;text-transform: capitalize;">What are identifiers?</span>
-Identifiers are the <span style="color: [[3942ca]]">**name**</span> of [[Variables|variables]], [[Methods|methods]], [[Classes|classes]]. They are used to **identify**.
+Identifiers are the <span style="color: [[3942ca]]">**name**</span> of [[Variables|variables]], [[Methods|methods]], [[Classes and Objects|classes]]. They are used to **identify**.
 
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Identifier rules</span>
@@ -31,4 +31,4 @@ float true;
 
 ---
 ## Relevant:
-[[Variables]] | [[Methods]] | [[Classes]]
+[[Variables]] | [[Methods]] | [[Classes and Objects]]

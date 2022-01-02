@@ -19,7 +19,7 @@ public class Main {
 }
 ```
 
-Every line of code that runs in Java must be inside a **[[Classes|class]]**. In our example, we named the class **<span style="color:#d76060">Main</span>**. 
+Every line of code that runs in Java must be inside a **[[Classes and Objects|class]]**. In our example, we named the class **<span style="color:#d76060">Main</span>**. 
 
 ```ad-warning
 * A class should always start with an uppercase first letter.
@@ -52,4 +52,4 @@ public static void main(String[] args) {
 ```
 
 ## Relevant:
-[[Classes]] | [[Methods]]
+[[Classes and Objects]] | [[Methods]]

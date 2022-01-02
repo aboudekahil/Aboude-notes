@@ -68,4 +68,4 @@ ___
 |    while     |                                                                                                                                             Creates a while loop                                                                                                                                              |
 
 ## Relevant 
-[[Java Syntax]] | [[Break-Continue]] | [[Loops]] | [[If statements]] | [[Switch statements]] | [[Classes]] | [[Identifiers]] | [[Variable types]] | [[Methods]]
+[[Java Syntax]] | [[Break-Continue]] | [[Loops]] | [[If statements]] | [[Switch statements]] | [[Classes and Objects]] | [[Identifiers]] | [[Variable types]] | [[Methods]]

@@ -51,4 +51,4 @@ The main difference between **[[Variable types#span style color ff5545 text-tran
 
 
 ## Relevant:
-[[Strings]] | [[Classes]] | [[Arrays]] | [[Interfaces]]
+[[Strings]] | [[Classes and Objects]] | [[Arrays]] | [[Interfaces]]

@@ -11,9 +11,9 @@ ___
 ### <span style="color: #ff5545;text-transform: capitalize;">what is oop?</span>
 OOP stabds for Object-Oriented Programming
 
-Java is an OOP language, that means the style of the code you write in java is heavily focused on [[Classes|classes]] and objects.
+Java is an OOP language, that means the style of the code you write in java is heavily focused on [[Classes and Objects|classes]] and objects.
 
-Other styles of coding include procedural programming, which is about writing procedures or methods that perform operations on data.
+Other styles of coding include procedural programming, which is about writing procedures or [[Methods|methods]] that perform operations on data.
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Why use oop?</span>
 Object-oriented programming has several advantages over procedural programming:
@@ -53,4 +53,4 @@ So, a class is a template for objects, and an object is an instance of a class.
 When the individual objects are created, they inherit all the variables and methods from the class.
 
 ## Reference
-[[Classes]]
+[[Classes and Objects]]

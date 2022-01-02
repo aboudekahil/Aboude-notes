@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Univerisity/CSIS215/Classes.md",
+            "file": "Univerisity/CSIS215/Classes and Objects.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univerisity/CSIS215/Classes.md",
+                "file": "Univerisity/CSIS215/Classes and Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univerisity/CSIS215/Classes.md",
+                "file": "Univerisity/CSIS215/Classes and Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univerisity/CSIS215/Classes.md"
+                "file": "Univerisity/CSIS215/Classes and Objects.md"
               }
             }
           },
@@ -134,15 +134,15 @@
   },
   "active": "d2f862c2117429a1",
   "lastOpenFiles": [
-    "Univerisity/CSIS215/Classes.md",
+    "Univerisity/CSIS215/Classes and Objects.md",
     "Univerisity/CSIS215/OOP introduction.md",
-    "Univerisity/MATH201/!Reference List.md",
     "Univerisity/CSIS215/!Reference list.md",
+    "Univerisity/CSIS200/Methods.md",
     "Univerisity/CSIS200/Keywords.md",
+    "Univerisity/CSIS215/Interfaces.md",
+    "Univerisity/MATH201/!Reference List.md",
     "Univerisity/MATH201/Table of integration formulas.md",
     "Univerisity/Schedules/My Fall Schedule 2021-2022.md",
-    "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
-    "University/MATH201/!Reference List.md",
-    "Univerisity/MATH201/Calculating Limits of Sequences.md"
+    "Univerisity/Schedules/My Spring Schedule 2021-2022.md"
   ]
 }

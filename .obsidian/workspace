@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Univerisity/CSIS215/Lambda expression.md",
-            "mode": "preview"
+            "file": "Univerisity/Schedules/My Fall Schedule 2021-2022.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univerisity/CSIS215/Lambda expression.md",
+                "file": "Univerisity/Schedules/My Fall Schedule 2021-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univerisity/CSIS215/Lambda expression.md",
+                "file": "Univerisity/Schedules/My Fall Schedule 2021-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univerisity/CSIS215/Lambda expression.md"
+                "file": "Univerisity/Schedules/My Fall Schedule 2021-2022.md"
               }
             }
           },
@@ -125,15 +125,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "d2f862c2117429a1",
   "lastOpenFiles": [
+    "Univerisity/Schedules/My Fall Schedule 2021-2022.md",
+    "Univerisity/CSIS200/!Reference list.md",
     "Univerisity/CSIS215/Lambda expression.md",
     "Univerisity/CSIS215/Threads.md",
     "Univerisity/CSIS215/Java Exceptions.md",
@@ -141,8 +143,6 @@
     "Univerisity/CSIS215/Wrapper classes.md",
     "Univerisity/CSIS215/Hash set.md",
     "Univerisity/CSIS215/Hash maps.md",
-    "Univerisity/CSIS215/Linked List.md",
-    "Univerisity/CSIS215/ArrayList.md",
-    "Univerisity/CSIS215/Enums.md"
+    "Univerisity/CSIS215/Linked List.md"
   ]
 }

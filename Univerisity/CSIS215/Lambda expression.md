@@ -97,3 +97,4 @@ public class Main{
 ```
 
 ## Reference
+[[Methods]] | [[Variables]] | [[If statements]] | [[For loops]] | [[Variable types]] | [[Interfaces]] | [[Java Packages]]

@@ -7,11 +7,8 @@
         "id": "733f6b1bc5bf2994",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Univerisity/Schedules/My Spring Schedule 2021-2022.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,8 +119,8 @@
   },
   "active": "733f6b1bc5bf2994",
   "lastOpenFiles": [
-    "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
     "Univerisity/Schedules/My Fall Schedule 2021-2022.md",
+    "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
     "University/MATH201/!Reference List.md",
     "Univerisity/MATH201/Calculating Limits of Sequences.md",
     "Univerisity/MATH201/!Reference List.md",

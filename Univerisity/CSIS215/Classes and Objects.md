@@ -68,6 +68,7 @@ You can also create an object of a class and access it in another class. This is
 ```java
 public class Main{
 	Second myObj = new Second();
+	System.out.println(myObj.x);
 }
 class Second{
 	int x = 5;

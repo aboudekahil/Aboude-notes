@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Univerisity/CSIS215/Classes and Objects.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -64,11 +64,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 222,
+    "collapsed": true
   },
   "right": {
     "id": "0cbf1908fb0fc370",

@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "87b2af8c06cfe801",
+        "id": "9fc94cbc4166c26e",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -54,15 +54,14 @@
             }
           },
           {
-            "id": "d2f862c2117429a1",
+            "id": "2a94f519bc28ab5d",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +126,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "87b2af8c06cfe801",
+  "active": "9fc94cbc4166c26e",
   "lastOpenFiles": [
     "University/CSIS215/!Reference list.md",
     "University/Schedules/My Fall Schedule 2021-2022.md",

@@ -5,8 +5,58 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Univerisity/CSIS200",
+      "color": {
+        "a": 1,
+        "rgb": 15032663
+      }
+    },
+    {
+      "query": "path:Univerisity/CSIS215",
+      "color": {
+        "a": 1,
+        "rgb": 11898604
+      }
+    },
+    {
+      "query": "path:Univerisity/Schedules",
+      "color": {
+        "a": 1,
+        "rgb": 8963463
+      }
+    },
+    {
+      "query": "path:Univerisity/MATH201",
+      "color": {
+        "a": 1,
+        "rgb": 3511779
+      }
+    },
+    {
+      "query": "path:Univerisity/MATH212",
+      "color": {
+        "a": 1,
+        "rgb": 16711778
+      }
+    },
+    {
+      "query": "path:Univerisity/CSIS270",
+      "color": {
+        "a": 1,
+        "rgb": 15892262
+      }
+    },
+    {
+      "query": "path:Univerisity/MATH246",
+      "color": {
+        "a": 1,
+        "rgb": 16437761
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,

@@ -14,7 +14,15 @@ Everything in Java is associated with classes and objects, along with its attrib
 
 A Class is like an object constructor, or a "blueprint" for creating objects.
 
+### <span style="color: #ff5545;text-transform: capitalize;">Creating a class</span>
+To create a class in Java we use the `class` [[Keywords|keyword]]
 
+```ad-example
+```java
+public class Main {
+	int x = 5;
+}
+```
 
 ## Reference
 [[Methods]]

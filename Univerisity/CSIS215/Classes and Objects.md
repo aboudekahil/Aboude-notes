@@ -23,6 +23,8 @@ public class Main {
 	int x = 5;
 }
 ```
-
+```ad-important
+a class should always start with an uppercase first letter, and that the name of the java file should match the class name.
+```
 ## Reference
 [[Methods]]

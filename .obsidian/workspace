@@ -7,8 +7,11 @@
         "id": "9fc94cbc4166c26e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "University/CSIS215/Modifiers.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 222,
+    "collapsed": true
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University/CSIS215/Modifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University/CSIS215/Modifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University/CSIS215/Modifiers.md"
+              }
             }
           },
           {
@@ -128,6 +136,7 @@
   },
   "active": "9fc94cbc4166c26e",
   "lastOpenFiles": [
+    "University/CSIS215/Modifiers.md",
     "University/CSIS215/!Reference list.md",
     "University/Schedules/My Fall Schedule 2021-2022.md",
     "University/CSIS200/!Reference list.md",
@@ -136,7 +145,6 @@
     "University/CSIS215/Java Exceptions.md",
     "University/CSIS215/Iterators.md",
     "University/CSIS215/Wrapper classes.md",
-    "University/CSIS215/Hash set.md",
-    "University/CSIS215/Hash maps.md"
+    "University/CSIS215/Hash set.md"
   ]
 }

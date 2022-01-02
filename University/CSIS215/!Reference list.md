@@ -10,5 +10,4 @@ Last modified: 2021-12-28-11:46
 ___
 * [[OOP introduction]]
 * [[Classes and Objects]]
-* [[Objects]]
 * [[Interfaces]]

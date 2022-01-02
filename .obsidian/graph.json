@@ -8,49 +8,49 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Univerisity/CSIS200",
+      "query": "path:University/CSIS200",
       "color": {
         "a": 1,
         "rgb": 15032663
       }
     },
     {
-      "query": "path:Univerisity/CSIS215",
+      "query": "path:University/CSIS215",
       "color": {
         "a": 1,
         "rgb": 11898604
       }
     },
     {
-      "query": "path:Univerisity/Schedules",
+      "query": "path:University/Schedules",
       "color": {
         "a": 1,
         "rgb": 8963463
       }
     },
     {
-      "query": "path:Univerisity/MATH201",
+      "query": "path:University/MATH201",
       "color": {
         "a": 1,
         "rgb": 3511779
       }
     },
     {
-      "query": "path:Univerisity/MATH212",
+      "query": "path:University/MATH212",
       "color": {
         "a": 1,
         "rgb": 16711778
       }
     },
     {
-      "query": "path:Univerisity/CSIS270",
+      "query": "path:University/CSIS270",
       "color": {
         "a": 1,
         "rgb": 15892262
       }
     },
     {
-      "query": "path:Univerisity/MATH246",
+      "query": "path:University/MATH246",
       "color": {
         "a": 1,
         "rgb": 16437761
@@ -63,10 +63,10 @@
   "nodeSizeMultiplier": 1.81709401709402,
   "lineSizeMultiplier": 1.48205128205128,
   "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 0,
-  "linkStrength": 0.52991452991453,
-  "linkDistance": 500,
-  "scale": 0.21860384444319664,
+  "centerStrength": 0.0170940170940171,
+  "repelStrength": 2.90598290598291,
+  "linkStrength": 0.931623931623932,
+  "linkDistance": 404,
+  "scale": 0.08828729252065728,
   "close": false
 }

@@ -103,7 +103,7 @@ Note that if the `default` statement is used as the last statement in a switch b
 
 ### <span style="color: #ff5545;text-transform: capitalize;">if statements → switch statements</span>
 
-Switch statements can be used instead of [[if statements|if statements]] in certain situations, for example:
+Switch statements can be used instead of [[If statements|if statements]] in certain situations, for example:
 
 ```ad-Dont
 title: Before

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Univerisity/CSIS215/Encapsulation.md",
+            "file": "Univerisity/CSIS215/Lambda expression.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univerisity/CSIS215/Encapsulation.md",
+                "file": "Univerisity/CSIS215/Lambda expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univerisity/CSIS215/Encapsulation.md",
+                "file": "Univerisity/CSIS215/Lambda expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univerisity/CSIS215/Encapsulation.md"
+                "file": "Univerisity/CSIS215/Lambda expression.md"
               }
             }
           },
@@ -134,15 +134,15 @@
   },
   "active": "d2f862c2117429a1",
   "lastOpenFiles": [
-    "Univerisity/CSIS215/Encapsulation.md",
-    "Univerisity/CSIS215/Modifiers.md",
-    "Univerisity/CSIS215/Constructors.md",
-    "Univerisity/CSIS215/Class methods.md",
-    "Univerisity/CSIS215/Class attributes.md",
-    "Univerisity/CSIS215/Classes and Objects.md",
-    "Univerisity/CSIS215/OOP introduction.md",
-    "Univerisity/CSIS215/!Reference list.md",
-    "Univerisity/CSIS200/Methods.md",
-    "Univerisity/CSIS200/Keywords.md"
+    "Univerisity/CSIS215/Lambda expression.md",
+    "Univerisity/CSIS215/Threads.md",
+    "Univerisity/CSIS215/Java Exceptions.md",
+    "Univerisity/CSIS215/Iterators.md",
+    "Univerisity/CSIS215/Wrapper classes.md",
+    "Univerisity/CSIS215/Hash set.md",
+    "Univerisity/CSIS215/Hash maps.md",
+    "Univerisity/CSIS215/Linked List.md",
+    "Univerisity/CSIS215/ArrayList.md",
+    "Univerisity/CSIS215/Enums.md"
   ]
 }

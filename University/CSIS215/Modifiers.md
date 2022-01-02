@@ -25,6 +25,16 @@ For [[Classes and Objects|classes]] you can use
 |:---------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | `public`  |                                            The class is accessible by any other class                                             |
 | *default* | The class is only accessible by classes in the same [[Java Packages\|package]]. `This is used when you don't specify a modifier.` |
-|           |                                                                                                                                   |
 
+For  **[[Classes and Objects|attributes]], [[Methods|methods]] and [[Constructors|constructors]]**, you can use the one of the following:
+
+|  Modifier   |                                            Description                                             |
+|:-----------:|:--------------------------------------------------------------------------------------------------:|
+|  `public`   |                               The code is accessible for all classes                               |
+|  `private`  |                       The code is only accessible within the declared class                        |
+| `protected` |   The code is accessible in the same [[Java Packages\|package]] and [[Inheritance\|subclasses]].   |
+|  *default*  | The code is only accessible in the same package. `This is used when you don't specify a modifier.` | 
+
+### <span style="color: #ff5545;text-transform: capitalize;">Non-Access Modifiers</span>
+For [[Cl]]
 ## Reference

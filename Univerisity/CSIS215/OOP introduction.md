@@ -31,12 +31,26 @@ The "Don't Repeat Yourself" (DRY) principle is about reducing the repetition of 
 Classes and objects are the two main aspects of object-oriented programming.
 
 Look at the following illustration to see the difference between class and objects:
-
+```ad-example
 | Class  | Objects |
-|:------:| ------- |
-| Fruits | Apple   |
+|:------:|:-------:|
+| Fruits |  Apple  |
 |        | Banana  |
-|        | Mango   |
+|        |  Mango  |
+
+```
+```ad-example
+title:Another example
+
+| Class | Objects |
+|:-----:|:-------:|
+|  Car  |  Volvo  |
+|       |  Audi   |
+|       | Toyota  |
+```
+So, a class is a template for objects, and an object is an instance of a class.
+
+When the individual objects are created, they inherit all the variables and methods from the class.
 
 ## Reference
 [[Classes]]

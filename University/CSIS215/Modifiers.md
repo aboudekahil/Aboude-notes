@@ -36,5 +36,19 @@ For  **[[Classes and Objects|attributes]], [[Methods|methods]] and [[Constructor
 |  *default*  | The code is only accessible in the same package. `This is used when you don't specify a modifier.` | 
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Non-Access Modifiers</span>
-For [[Cl]]
+For [[Classes and Objects|classes]] you can use
+
+|  Modifier  |                                                                 Description                                                                 |
+|:----------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
+|  `final`   |                                       The class cannot be [[Inheritance\|inherited]] by other classes                                       |
+| `abstract` | The class cannot be used to create [[Classes and Objects\|objects]] (To access an abstract class, it must be inherited from another class.) | 
+
+For attributes and [[Methods|methods]]:
+
+| Modifier   | Description                                                                                                                                                                                           |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `final`    | Attributes and methods cannot be overridden/modified                                                                                                                                                  |
+| `static`   | Attributes and methods belongs to the class, rather than an object                                                                                                                                    |
+| `abstract` | Can only be used in an abstract class, and can only be used on methods. The method does not have a body, for example **abstract void run();**. The body is provided by the subclass (inherited from). |
+|            |                                                                                                                                                                                                       |
 ## Reference

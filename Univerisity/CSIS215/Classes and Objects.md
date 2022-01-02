@@ -47,7 +47,19 @@ public class Main {
 ### <span style="color: #ff5545;text-transform: capitalize;">Multiple objects</span>
 You can create multiple objects of one class:
 
-```ad-exampl
+```ad-example
+```java
+public class Main {
+  int x = 5;
+
+  public static void main(String[] args) {
+    Main myObj1 = new Main();  // Object 1
+    Main myObj2 = new Main();  // Object 2
+    System.out.println(myObj1.x);
+    System.out.println(myObj2.x);
+  }
+}
+```
 
 ## Reference
 [[Methods]] | [[Keywords]] | [[Java Syntax]]

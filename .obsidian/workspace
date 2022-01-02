@@ -7,8 +7,11 @@
         "id": "733f6b1bc5bf2994",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "OOP introduction.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -57,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 222,
+    "collapsed": true
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OOP introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OOP introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OOP introduction.md"
+              }
             }
           },
           {
@@ -119,6 +127,8 @@
   },
   "active": "733f6b1bc5bf2994",
   "lastOpenFiles": [
+    "OOP introduction.md",
+    "Univerisity/CSIS215/!Reference list.md",
     "Univerisity/Schedules/My Fall Schedule 2021-2022.md",
     "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
     "University/MATH201/!Reference List.md",

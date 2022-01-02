@@ -26,4 +26,6 @@ title:Syntax
 ```java
 (parameter1, parameter2) -> expression
 ```
+
+Expressions are limited. They have to immediately return a value, and they cannot contain [[Variables|variables]], assignments or statements such as [[If statements|if]] or [[For loops|for]]. In order to do more complex operations, a code block can be used with curly braces. If the lambda expression needs to return a value, then the code block should have a `return` statement.
 ## Reference

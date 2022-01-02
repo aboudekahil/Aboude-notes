@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OOP introduction.md",
-            "mode": "source"
+            "file": "Univerisity/CSIS200/Keywords.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222,
-    "collapsed": true
+    "width": 222
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP introduction.md",
+                "file": "Univerisity/CSIS200/Keywords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP introduction.md",
+                "file": "Univerisity/CSIS200/Keywords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP introduction.md"
+                "file": "Univerisity/CSIS200/Keywords.md"
               }
             }
           },
@@ -127,15 +126,15 @@
   },
   "active": "733f6b1bc5bf2994",
   "lastOpenFiles": [
+    "Univerisity/CSIS200/Keywords.md",
+    "Univerisity/MATH201/Table of integration formulas.md",
+    "Univerisity/MATH201/!Reference List.md",
     "OOP introduction.md",
     "Univerisity/CSIS215/!Reference list.md",
     "Univerisity/Schedules/My Fall Schedule 2021-2022.md",
     "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
     "University/MATH201/!Reference List.md",
     "Univerisity/MATH201/Calculating Limits of Sequences.md",
-    "Univerisity/MATH201/!Reference List.md",
-    "Univerisity/MATH201/Alternating series.md",
-    "Univerisity/CSIS200/Comments.md",
-    "test.md"
+    "Univerisity/MATH201/Alternating series.md"
   ]
 }

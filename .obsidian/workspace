@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/ArrayList.md",
-            "mode": "preview"
+            "file": "University/CSIS215/Class attributes.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 222,
+    "collapsed": true
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/ArrayList.md",
+                "file": "University/CSIS215/Class attributes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/ArrayList.md",
+                "file": "University/CSIS215/Class attributes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/ArrayList.md"
+                "file": "University/CSIS215/Class attributes.md"
               }
             }
           },
@@ -135,6 +136,7 @@
   },
   "active": "9fc94cbc4166c26e",
   "lastOpenFiles": [
+    "University/CSIS215/Class attributes.md",
     "University/CSIS215/ArrayList.md",
     "University/CSIS215/Abstraction.md",
     "University/CSIS215/!Reference list.md",
@@ -143,7 +145,6 @@
     "University/CSIS215/Linked List.md",
     "University/CSIS215/Lambda expression.md",
     "University/CSIS215/Java Packages.md",
-    "University/CSIS215/Java Exceptions.md",
-    "University/CSIS215/Iterators.md"
+    "University/CSIS215/Java Exceptions.md"
   ]
 }

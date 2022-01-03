@@ -150,6 +150,7 @@ public class Main {
   }
 }
 ```
+
 ```ad-example
 sort array of integers
 ```java
@@ -175,4 +176,4 @@ public class Main {
 }
 ```
 ## Reference
-[[Classes and Objects]] | [[a]]
+[[Classes and Objects]] | [[Arrays]] | [[Java Packages]] | [[Methods]] | [[Strings]]

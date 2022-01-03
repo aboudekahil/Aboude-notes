@@ -83,3 +83,4 @@ just like `static` [[Class attributes|attributes]] and methods, a `static` inner
 ```
 
 ## Reference
+[[Classes and Objects]] | [[Class attributes]]

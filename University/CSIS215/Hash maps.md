@@ -54,4 +54,13 @@ To access a value in the `HashMap`, use the `get()` method and refer to its key
 capitalCities.get("England");
 ```
 
+### <span style="color: #ff5545;text-transform: capitalize;">remove an item</span>
+To remove an item, use the `remove()` method and refer to the key
+```ad-example
+```java
+capitalCities.remove("England");
+```
+
+
+
 ## Reference

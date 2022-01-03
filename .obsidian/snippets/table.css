@@ -5,3 +5,7 @@ width: 100%;
 img {
 margin: 0 auto;
 }
+
+.language-cmd{
+background-color: black !important; 
+}

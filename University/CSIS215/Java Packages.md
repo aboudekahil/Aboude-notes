@@ -83,6 +83,10 @@ class MyPackageClass {
 ```
 Save the file as **MyPackageClass.java**, and compile it
 ```cmd
-C:\Users\_Your Name_>javac MyPackageClass.java
+C:\Users\Your Name>javac MyPackageClass.java
+```
+Then compile the package
+```cmd
+C:\Users\_Your Name_>javac -d . MyPackageClass.java
 ```
 ## Reference

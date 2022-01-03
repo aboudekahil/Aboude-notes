@@ -40,5 +40,71 @@ public class Main {
 ```
 
 ### <span style="color: #ff5545;text-transform: capitalize;">access an item</span>
+To access an element in the `ArrayList`, use the `get()` method and refer to the index number
+```ad-example
+```java
+cars.get(0);
+```
+
+### <span style="color: #ff5545;text-transform: capitalize;">change and item</span>
+To modify an element, use the `set()` method and refer to the index number
+
+```ad-example
+```java
+cars.set(0, "Opel");
+```
+
+### <span style="color: #ff5545;text-transform: capitalize;">Remove an item</span>
+To remove an element, use the `remove()` method and refer to the index number:
+```ad-example
+```java
+cars.remove(0);
+```
+To remove all the elements in the `ArrayList`, use the `clear()` method
+```ad-example
+```java
+cars.clear();
+```
+### <span style="color: #ff5545;text-transform: capitalize;">arrayList size</span>
+To find out how many elements an ArrayList have, use the `size` method
+```ad-example
+```java
+cars.size();
+```
+### <span style="color: #ff5545;text-transform: capitalize;">loop through an array list</span>
+Loop through the elements of an `ArrayList` with a `for` loop, and use the `size()` method to specify how many times the loop should run
+```ad-example
+```java
+public class Main {
+  public static void main(String[] args) {
+    ArrayList<String> cars = new ArrayList<String>();
+    cars.add("Volvo");
+    cars.add("BMW");
+    cars.add("Ford");
+    cars.add("Mazda");
+    for (int i = 0; i < cars.size(); i++) {
+      System.out.println(cars.get(i));
+    }
+  }
+}
+```
+
+You can also loop through an `ArrayList` with the **for-each** loop
+
+```ad-example
+```java
+public class Main {
+  public static void main(String[] args) {
+    ArrayList<String> cars = new ArrayList<String>();
+    cars.add("Volvo");
+    cars.add("BMW");
+    cars.add("Ford");
+    cars.add("Mazda");
+    for (String i : cars) {
+      System.out.println(i);
+    }
+  }
+}
+```
 
 ## Reference

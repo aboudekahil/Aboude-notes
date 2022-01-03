@@ -41,8 +41,22 @@ public class Main {
     System.out.println(myNumbers[10]); // error!
   }
 }
-```cmd
-ou
+```
+```ad-Do
+title: Try and catch
+```java
+public class Main {
+  public static void main(String[ ] args) {
+    try {
+      int[] myNumbers = {1, 2, 3};
+      System.out.println(myNumbers[10]);
+    } catch (Exception e) {
+      System.out.println("Something went wrong.");
+    }
+  }
+}
+// this will output “Something went wrong”
 ```
 
+### <span style="color: #ff5545;text-transform: capitalize;">Finally</span>
 ## Reference

@@ -13,7 +13,7 @@ ___
 A HashSet is a collection of items where every item is unique, and it is found in the `java.util` package
 
 ```ad-example
-Create a `HashSet` object called **cars** that will store strings
+Create a `HashSet` [[Classes and Objects|object]] called **cars** that will store [[strings]]
 ```java
 import java.util.HashSet; // Import the HashSet class
 
@@ -21,7 +21,7 @@ HashSet<String> cars = new HashSet<String>();
 ```
 
 ### <span style="color: #ff5545;text-transform: capitalize;">add items</span>
-The `HashSet` class has many useful methods. For example, to add items to it, use the `add()` method
+The `HashSet` [[Classes and Objects|class]] has many useful [[methods]]. For example, to add items to it, use the `add()` method
 
 ```ad-example
 ```java
@@ -73,6 +73,48 @@ To find out how many items there are, use the `size` method
 ```ad-example
 ```java
 cars.size();
+```
+
+### <span style="color: #ff5545;text-transform: capitalize;">loop through a hashSet</span>
+Loop through the items of an `HashSet` with a **for-each** loop
+
+```ad-example
+```java
+for (String i : cars) {
+  System.out.println(i);
+}
+```
+
+### <span style="color: #ff5545;text-transform: capitalize;">other types</span>
+
+Items in an HashSet are actually [[Classes and Objects|objects]]. In the examples above, we created items ([[Classes and Objects|objects]]) of type "String". Remember that a String in Java is an [[Classes and Objects|object]] (not a primitive type). To use other types, such as int, you must specify an equivalent wrapper [[Classes and Objects|class]]: `Integer`. For other primitive types, use: `Boolean` for boolean, `Character` for char, `Double` for double, etc
+
+```ad-example
+Use a `HashSet` that stores `Integer` objects
+```java
+import java.util.HashSet;
+
+public class Main {
+  public static void main(String[] args) {
+
+    // Create a HashSet object called numbers
+    HashSet<Integer> numbers = new HashSet<Integer>();
+
+    // Add values to the set
+    numbers.add(4);
+    numbers.add(7);
+    numbers.add(8);
+
+    // Show which numbers between 1 and 10 are in the set
+    for(int i = 1; i <= 10; i++) {
+      if(numbers.contains(i)) {
+        System.out.println(i + " was found in the set.");
+      } else {
+        System.out.println(i + " was not found in the set.");
+      }
+    }
+  }
+}
 ```
 
 ## Reference

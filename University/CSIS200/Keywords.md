@@ -1,4 +1,5 @@
 ---
+aliases: [keywo]
 author: aboude
 ---
 # Keywords

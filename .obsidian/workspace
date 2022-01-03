@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Encapsulation.md",
+            "file": "University/CSIS200/Keywords.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 222,
+    "collapsed": true
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Encapsulation.md",
+                "file": "University/CSIS200/Keywords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Encapsulation.md",
+                "file": "University/CSIS200/Keywords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Encapsulation.md"
+                "file": "University/CSIS200/Keywords.md"
               }
             }
           },
@@ -130,11 +131,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
+    "University/CSIS200/Keywords.md",
     "University/CSIS215/Encapsulation.md",
     "University/CSIS215/Constructors.md",
     "University/CSIS215/Class attributes.md",
@@ -143,7 +144,6 @@
     "University/CSIS215/ArrayList.md",
     "University/CSIS215/Abstraction.md",
     "University/CSIS215/!Reference list.md",
-    "University/CSIS215/Modifiers.md",
-    "University/CSIS215/OOP introduction.md"
+    "University/CSIS215/Modifiers.md"
   ]
 }

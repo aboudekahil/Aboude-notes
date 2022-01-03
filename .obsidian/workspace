@@ -104,7 +104,7 @@
               "state": {
                 "file": "University/CSIS215/Hash maps.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [

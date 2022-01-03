@@ -78,4 +78,36 @@ public class Main {
   }
 }
 ```
+### <span style="color: #ff5545;text-transform: capitalize;">Loop through enums</span>
+The enum type has a `values()` method, which returns an array of all enum constants. This method is useful when you want to loop through the constants of an enum
+```ad-example
+```java
+for (Level myVar : Level.values()) {
+  System.out.println(myVar);
+}
+/* Outputs
+LOW
+MEDIUM
+HIGH
+*/
+```
+### <span style="color: #ff5545;text-transform: capitalize;">Enum Constructors</span>
+Enums can have constructors to set attributes to the enum constants but you have to set it manually when typing the enum constants
+```ad-example
+```java
+enum Transport{
+	PLANE(180),CAR(80),TRAIN(120);
+	
+	int speed;
+	
+	Transport(int s){
+		speed = s;
+	}
+}
+class Main{
+	public static void main(String[] args){
+		Transport t
+	}
+}
+```
 ## Reference

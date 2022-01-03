@@ -9,19 +9,19 @@ Last modified: 2022-01-03-18:00
 
 ___
 ### <span style="color: #ff5545;text-transform: capitalize;">What’s a java package?</span>
-A package in Java is used to group related classes. Think of it as **a folder in a file directory**. We use packages to avoid name conflicts, and to write a better maintainable code. Packages are divided into two categories:
+A package in Java is used to group related [[Classes and Objects|classes]]. Think of it as **a folder in a file directory**. We use packages to avoid name conflicts, and to write a better maintainable code. Packages are divided into two categories:
 
 -   Built-in Packages (packages from the Java API)
 -   User-defined Packages (create your own packages)
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Built in packages</span>
-The Java API is a library of prewritten classes, that are free to use, included in the Java Development Environment.
+The Java API is a library of prewritten [[Classes and Objects|classes]], that are free to use, included in the Java Development Environment.
 
 The library contains components for managing input, database programming, and much much more. The complete list can be found at Oracles website: [https://docs.oracle.com/javase/8/docs/api/](https://docs.oracle.com/javase/8/docs/api/).
 
-The library is divided into **packages** and **classes**. Meaning you can either import a single class (along with its methods and attributes), or a whole package that contain all the classes that belong to the specified package.
+The library is divided into **packages** and **[[Classes and Objects|classes]]**. Meaning you can either import a single [[Classes and Objects|class]] (along with its [[methods]] and [[Class attributes|attributes]]), or a whole package that contain all the [[Classes and Objects|classes]] that belong to the specified package.
 
-To use a class or a package from the library, you need to use the `import` keyword
+To use a [[Classes and Objects|class]] or a package from the library, you need to use the `import` [[Keywords|keyword]]
 ```ad-example
 title:Syntax
 ```java
@@ -30,14 +30,14 @@ import package.name.*;   // Import the whole package
 ```
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Import a class</span>
-If you find a class you want to use, for example, the `Scanner` class, **which is used to get user input**, write the following code
+If you find a [[Classes and Objects|class]] you want to use, for example, the `Scanner` [[Classes and Objects|class]], **which is used to get user input**, write the following code
 ```ad-example
 In the example, `java.util` is a package, while `Scanner` is a class of the `java.util` package.
 ```java
 import java.util.Scanner;
 ```
 
-To use the `Scanner` class, create an object of the class and use any of the available methods found in the `Scanner` class documentation. We will use the `nextLine()` method, which is used to read a complete line
+To use the `Scanner` [[Classes and Objects|class]], create an [[Classes and Objects|object]] of the [[Classes and Objects|class]] and use any of the available [[methods]] found in the `Scanner` [[Classes and Objects|class]] documentation. We will use the `nextLine()` method, which is used to read a complete line
 
 ```ad-example
 ```java
@@ -55,9 +55,9 @@ class MyClass {
 ```
 
 ### <span style="color: #ff5545;text-transform: capitalize;">import a package</span>
-There are many packages to choose from. In the previous example, we used the `Scanner` class from the `java.util` package. This package also contains date and time facilities, random-number generator and other utility classes.
+There are many packages to choose from. In the previous example, we used the `Scanner` [[Classes and Objects|class]] from the `java.util` package. This package also contains date and time facilities, random-number generator and other utility [[Classes and Objects|classes]].
 
-To import a whole package, end the sentence with an asterisk sign (`*`). The following example will import ALL the classes in the `java.util` package
+To import a whole package, end the sentence with an asterisk sign (`*`). The following example will import ALL the [[Classes and Objects|classes]] in the `java.util` package
 ```ad-example
 ```java
 import java.util.*;
@@ -71,7 +71,7 @@ To create your own package, you need to understand that Java uses a file system 
 $\quad$└── mypack
 $\qquad$└── MyPackageClass.java
 ```
-To create a package, use the `package` keyword
+To create a package, use the `package` [[Keywords|keyword]]
 ```ad-example
 ```java
 package mypack;
@@ -104,5 +104,10 @@ To run the **MyPackageClass.java** file, write the following:
 ```cmd
 C:\Users\_Your Name_>java mypack.MyPackageClass
 ```
+The output will be:
+```cmd
+This is my package!
+```
 
 ## Reference
+[[Classes and Objects]] | [[Methods]] | [[Class attributes]] | [[Keywords]]

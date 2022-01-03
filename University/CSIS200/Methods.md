@@ -177,7 +177,7 @@ double myMethod(double x, double y)
 
 ```ad-example
 title:Example 2
-Consider the following example, which has two methods that add numbers of different type:
+Consider the following example, which has two methods that add [[numbers]] of different type:
 ```java
 static int plusMethodInt(int x, int y) {
   return x + y;
@@ -200,10 +200,10 @@ public static void main(String[] args) {
 ```
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Scope of variables</span>
-In Java, variables are only accessible inside the region they are created. This is called **scope**.
+In Java, [[variables]] are only accessible inside the region they are created. This is called **scope**.
 
 ##### Method scope
-Variables declared directly inside a method are available anywhere in the method following the line of code in which they were declared:
+[[Variables]] declared directly inside a method are available anywhere in the method following the line of code in which they were declared:
 ```ad-example
 ```java
 public class Main {
@@ -244,14 +244,14 @@ public class Main {
 ```
 
 ```ad-note
-A block of code may exist on its own or it can belong to an `if`, `while` or `for` statement. In the case of `for` statements, variables declared in the statement itself are also available inside the block's scope.
+A block of code may exist on its own or it can belong to an `if`, `while` or `for` statement. In the case of `for` statements, [[variables]] declared in the statement itself are also available inside the block's scope.
 ```
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Recursion</span>
 Recursion is the technique of making a function call itself. This technique provides a way to break complicated problems down into simple problems which are easier to solve.
 
 ```ad-example
-Using recursion to add all numbers from 1 to 10:
+Using recursion to add all [[numbers]] from 1 to 10:
 ```java
 public class Main {
   public static void main(String[] args) {
@@ -262,7 +262,7 @@ public class Main {
 ```
 ```ad-note
 title:Example Explained
-When the `sum()` function is called, it adds parameter `k` to the sum of all numbers smaller than `k` and returns the result. When k becomes 0, the function just returns 0. When running, the program follows these steps:
+When the `sum()` function is called, it adds parameter `k` to the sum of all [[numbers]] smaller than `k` and returns the result. When k becomes 0, the function just returns 0. When running, the program follows these steps:
 
 10 + sum(9)  
 10 + ( 9 + sum(8) )  

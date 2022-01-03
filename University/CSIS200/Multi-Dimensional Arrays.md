@@ -17,7 +17,7 @@ To create a two-dimensional array, add each array within its own set of **curly 
 ```java
 int[][] myNumbers = { {1, 2, 3, 4}, {5, 6, 7} };
 ```
-**myNumbers** is now an array with two arrays as its elements.
+**myNumbers** is now an array with two [[arrays]] as its elements.
 
 To access the elements of the **myNumbers** array, specify two indexes: one for the array, and one for the element inside that array.
 

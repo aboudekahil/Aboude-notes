@@ -40,7 +40,7 @@ title:Long:
 long myNum = 15000000000L;
 ```
 ```ad-note
-* the `int` data type is the preferred data type when we create variables with a numeric value.
+* the `int` data type is the preferred data type when we create [[variables]] with a numeric value.
 * when using a long value you should end the number with an `L` i.e `4000L`
 ```
 

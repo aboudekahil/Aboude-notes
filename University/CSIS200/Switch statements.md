@@ -34,7 +34,7 @@ switch(expression) {
 
 -   The value of the expression is compared with the values of each `case`.
 -   If there is a match, the associated block of code is executed.
--   The `break` and `default` keywords are optional, and will be described later in this chapter
+-   The `break` and `default` [[keywords]] are optional, and will be described later in this chapter
 ___
 The example below uses the weekday number to calculate the weekday name.
 ```ad-example

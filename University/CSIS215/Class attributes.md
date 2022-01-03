@@ -50,9 +50,37 @@ public class Main {
   public static void main(String[] args) {
     Main myObj = new Main();
     myObj.x = 40;
-    System.out.println(myObj.x); 
+    System.out.println(myObj.x); // prints 40
   }
 }
 ```
 
+or override attributes
+```ad-example
+```java
+public class Main {
+  int x = 10;
+
+  public static void main(String[] args) {
+    Main myObj = new Main();
+    myObj.x = 25; // x is now 25
+    System.out.println(myObj.x);
+  }
+}
+```
+
+If you don't want the ability to override existing values, use the `final` [[Modifiers|modifier]]:
+
+```ad-example
+```java
+public class Main {
+  final int x = 10;
+
+  public static void main(String[] args) {
+    Main myObj = new Main();
+    myObj.x = 25; // will generate an error: cannot assign a value to a final variable
+    System.out.println(myObj.x);
+  }
+}
+```
 ## Reference

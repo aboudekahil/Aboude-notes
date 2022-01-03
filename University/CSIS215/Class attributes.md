@@ -1,4 +1,5 @@
 ---
+aliases: [attribute, attributes]
 author: aboude
 ---
 # Class attributes

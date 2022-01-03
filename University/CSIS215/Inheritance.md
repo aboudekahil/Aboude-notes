@@ -41,6 +41,21 @@ class Car extends Vehicle {
 }
 ```
 ```ad-note
+We set the **brand** attribute in **Vehicle** to a `protected` access modifier. If it was set to `private`, the Car class would not be able to access it.
+```
+### <span style="color: #ff5545;text-transform: capitalize;">Why use inheritance?</span>
+It is useful for code reusability, reuse attributes and methods of an existing class when you create a new class.
+### <span style="color: #ff5545;text-transform: capitalize;">Final keyword</span>
+If you don't want other classes to inherit from a class, use the `final` keyword.
+```ad-Dont
+This will produce an error
+```java
+final class Vehicle {
+  ...
+}
 
+class Car extends Vehicle {
+  ...
+}
 ```
 ## Reference

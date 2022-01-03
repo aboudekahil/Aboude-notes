@@ -55,11 +55,53 @@ capitalCities.get("England");
 ```
 
 ### <span style="color: #ff5545;text-transform: capitalize;">remove an item</span>
+
 To remove an item, use the `remove()` method and refer to the key
+
 ```ad-example
 ```java
 capitalCities.remove("England");
 ```
+
+To remove all items, use the `clear()` method
+
+```ad-example
+```java
+capitalCities.clear();
+```
+
+### <span style="color: #ff5545;text-transform: capitalize;">hashMap size</span>
+To find out how many items there are, use the `size()` method
+
+```ad-example
+```java
+capitalCities.size();
+```
+
+### <span style="color: #ff5545;text-transform: capitalize;">loop through a hashMap</span>
+
+Loop through the items of a `HashMap` with a **for-each** loop.
+
+```ad-note
+Use the `keySet()` method if you only want the keys, and use the `values()` method if you only want the values
+```
+
+```ad-example
+```java
+// Print keys
+for (String i : capitalCities.keySet()) {
+  System.out.println(i);
+}
+```
+
+```ad-example
+```java
+// Print values
+for (String i : capitalCities.values()) {
+  System.out.println(i);
+}
+```
+
 
 
 

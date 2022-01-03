@@ -118,3 +118,4 @@ public class Main {
 ```
 
 ## Reference
+[[Classes and Objects]] | [[Methods]] | [[Strings]]

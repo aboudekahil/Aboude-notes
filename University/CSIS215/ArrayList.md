@@ -129,5 +129,6 @@ public class Main {
 ```
 
 ### <span style="color: #ff5545;text-transform: capitalize;">sort an arrayList</span>
+Another useful class in the `java.util` package is the `Collections` class, which include the `sort()` method for sorting lists alphabetically or numerically
 
 ## Reference

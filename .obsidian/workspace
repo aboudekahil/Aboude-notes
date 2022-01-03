@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Abstraction.md",
+            "file": "University/CSIS215/Interfaces.md",
             "mode": "source"
           }
         }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222,
-    "collapsed": true
+    "width": 222
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Abstraction.md",
+                "file": "University/CSIS215/Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Abstraction.md",
+                "file": "University/CSIS215/Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Abstraction.md"
+                "file": "University/CSIS215/Interfaces.md"
               }
             }
           },
@@ -136,6 +135,7 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
+    "University/CSIS215/Interfaces.md",
     "University/CSIS215/Abstraction.md",
     "University/CSIS215/Polymorphism.md",
     "University/CSIS215/Inheritance.md",
@@ -144,7 +144,6 @@
     "University/CSIS215/Constructors.md",
     "University/CSIS215/Class attributes.md",
     "University/CSIS215/Class methods.md",
-    "University/CSIS215/Classes and Objects.md",
-    "University/CSIS215/ArrayList.md"
+    "University/CSIS215/Classes and Objects.md"
   ]
 }

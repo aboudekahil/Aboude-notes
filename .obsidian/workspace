@@ -7,11 +7,8 @@
         "id": "40523c3e8ccb7f30",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "University/CSIS215/Inheritance.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +98,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Inheritance.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -113,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "University/CSIS215/Inheritance.md"
-              }
+              "state": {}
             }
           },
           {

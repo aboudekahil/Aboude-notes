@@ -7,11 +7,8 @@
         "id": "9fc94cbc4166c26e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "University/CSIS215/Modifiers.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222,
-    "collapsed": true
+    "width": 222
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Modifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +97,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Modifiers.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "University/CSIS215/Modifiers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,15 +128,15 @@
   },
   "active": "9fc94cbc4166c26e",
   "lastOpenFiles": [
-    "University/CSIS215/Modifiers.md",
-    "University/CSIS215/!Reference list.md",
-    "University/Schedules/My Fall Schedule 2021-2022.md",
-    "University/CSIS200/!Reference list.md",
-    "University/CSIS215/Lambda expression.md",
-    "University/CSIS215/Threads.md",
-    "University/CSIS215/Java Exceptions.md",
-    "University/CSIS215/Iterators.md",
-    "University/CSIS215/Wrapper classes.md",
-    "University/CSIS215/Hash set.md"
+    "University/CSIS200/Keywords.md",
+    "University/CSIS200/Java Syntax.md",
+    "University/CSIS200/If statements.md",
+    "University/CSIS200/Identifiers.md",
+    "University/CSIS200/For-each loops.md",
+    "University/CSIS200/For loops.md",
+    "University/CSIS200/Do-While loops.md",
+    "University/CSIS200/Comments.md",
+    "University/CSIS200/Break-Continue.md",
+    "University/CSIS200/Characters.md"
   ]
 }

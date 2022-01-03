@@ -10,7 +10,7 @@ Last modified: 2021-12-09-14:18
 ___
 
 ### <span style="color: #ff5545;text-transform: capitalize;">What are arrays?</span>
-Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
+Arrays are used to store multiple values in a single variable, instead of declaring separate [[variables]] for each value.
 
 To declare an array, define the variable type with **square brackets**:
 ```ad-example

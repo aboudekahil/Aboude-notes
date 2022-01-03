@@ -10,7 +10,7 @@ Last modified: 2021-12-08-12:46
 ___
 
 ### <span style="color: #ff5545;text-transform: capitalize;">What are for each loops?</span>
-For each loops are simplified [[For loops|for loops]] used specifically to iterate through [[Arrays|arrays]]. They give the benefit of being easier to write and read, in addition to iterate through an [[Arrays|array]] without having to track a counter.
+For each [[loops]] are simplified [[For loops|for loops]] used specifically to iterate through [[Arrays|arrays]]. They give the benefit of being easier to write and read, in addition to iterate through an [[Arrays|array]] without having to track a counter.
 
 ```ad-example
 title:Syntax

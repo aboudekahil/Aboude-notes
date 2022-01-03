@@ -47,12 +47,13 @@ For attributes and [[Methods|methods]]:
 
 | Modifier       | Description                                                                                                                                                                                           |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `final`        | Attributes and methods cannot be overridden/modified                                                                                                                                                  |
-| `static`       | Attributes and methods belongs to the class, rather than an object                                                                                                                                    |
-| `abstract`     | Can only be used in an abstract class, and can only be used on methods. The method does not have a body, for example **abstract void run();**. The body is provided by the subclass (inherited from). |
-| `transient`    | Attributes and methods are skipped when serializing the object containing them                                                                                                                        |
-| `synchronized` | Methods can only be accessed by one thread at a time                                                                                                                                                  |
+| `final`        | Attributes and [[methods]] cannot be overridden/modified                                                                                                                                                  |
+| `static`       | Attributes and [[methods]] belongs to the class, rather than an object                                                                                                                                    |
+| `abstract`     | Can only be used in an abstract class, and can only be used on [[methods]]. The method does not have a body, for example **abstract void run();**. The body is provided by the subclass (inherited from). |
+| `transient`    | Attributes and [[methods]] are skipped when serializing the object containing them                                                                                                                        |
+| `synchronized` | [[Methods]] can only be accessed by one thread at a time                                                                                                                                                  |
 | `volatile`     | The value of an attribute is not cached thread-locally, and is always read from the "main memory"                                                                                                     | 
 
 
 ## Reference
+[[Keywords]] | [[Classes and Objects]] | [[Methods]] | [[Variables]] | [[Java Packages]] | [[Constructors]] | [[Inheritance]]

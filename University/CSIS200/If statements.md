@@ -40,7 +40,7 @@ if (x > y) {
 }
 ```
 
-In the example above we use two variables, **x** and **y**, to test whether x is greater than y (using the `>` [[Operators#span style color ff5545 Comparison Operators span|operator]]). As x is 20, and y is 18, and we know that 20 is greater than 18, we print to the screen that "x is greater than y".
+In the example above we use two [[variables]], **x** and **y**, to test whether x is greater than y (using the `>` [[Operators#span style color ff5545 Comparison Operators span|operator]]). As x is 20, and y is 18, and we know that 20 is greater than 18, we print to the screen that "x is greater than y".
 
 ### <span style="color: #ff5545;text-transform: capitalize;">else statement</span>
 

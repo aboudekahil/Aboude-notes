@@ -9,7 +9,7 @@ Last modified: 2022-01-03-12:43
 
 ___
 ### <span style="color: #ff5545;text-transform: capitalize;">what are class methods</span>
-You learned from the [[Methods]] note that methods are declared within a class, and that they are used to perform certain actions
+You learned from the [[Methods]] note that [[methods]] are declared within a [[Classes and Objects|class]], and that they are used to perform certain actions
 ```ad-example
 `myMethod()` prints a text (the action), when it is **called**. To call a method, write the method's name followed by two parentheses **()** and a semicolon**;**
 ```java
@@ -37,9 +37,9 @@ public class Main {
 ```
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Static vs Non-Static methods</span>
-You will often see Java programs that have either `static` or `public` attributes and methods.
+You will often see Java programs that have either `static` or `public` attributes and [[methods]].
 
-In the example above, we created a `static` method, which means that it can be accessed without creating an object of the class, unlike `public`, which can only be accessed by objects
+In the example above, we created a `static` method, which means that it can be accessed without creating an [[Classes and Objects|object]] of the [[Classes and Objects|class]], unlike `public`, which can only be accessed by [[Classes and Objects|objects]]
 ```ad-example
 ```java
 public class Main {
@@ -93,22 +93,23 @@ public class Main {
 ```
 ```ad-definition
 title: Explanation
-1) We created a custom `Main` class with the `class` keyword.
+1) We created a custom `Main` [[Classes and Objects|class]] with the `class` [[Keywords|keyword]].
 
-2) We created the `fullThrottle()` and `speed()` methods in the `Main` class.
+2) We created the `fullThrottle()` and `speed()` [[methods]] in the `Main` [[Classes and Objects|class]].
 
 3) The `fullThrottle()` method and the `speed()` method will print out some text, when they are called.
 
 4) The `speed()` method accepts an `int` parameter called `maxSpeed` - we will use this in **8)**.
 
-5) In order to use the `Main` class and its methods, we need to create an **object** of the `Main` Class.
+5) In order to use the `Main` class and its [[methods]], we need to create an **[[Classes and Objects|object]]** of the `Main` Class.
 
 6) Then, go to the `main()` method, which you know by now is a built-in Java method that runs your program (any code inside main is executed).
 
-7) By using the `new` keyword we created an object with the name `myCar`.
+7) By using the `new` keyword we created an [[Classes and Objects|object]] with the name `myCar`.
 
-8) Then, we call the `fullThrottle()` and `speed()` methods on the `myCar` object, and run the program using the name of the object (`myCar`), followed by a dot (`.`), followed by the name of the method (`fullThrottle();` and `speed(200);`). Notice that we add an `int` parameter of **200** inside the `speed()` method.
+8) Then, we call the `fullThrottle()` and `speed()` [[methods]] on the `myCar` [[Classes and Objects|object]], and run the program using the name of the [[Classes and Objects|object]] (`myCar`), followed by a dot (`.`), followed by the name of the method (`fullThrottle();` and `speed(200);`). Notice that we add an `int` parameter of **200** inside the `speed()` method.
 ```
 
 
 ## Reference
+[[Methods]] | [[Classes and Objects]]

@@ -46,6 +46,12 @@ public class Main {
 }
 ```
 
-### <span style="color: #ff5545;text-transform: capitalize;"></span>
+### <span style="color: #ff5545;text-transform: capitalize;">access an item</span>
+To access a value in the `HashMap`, use the `get()` method and refer to its key
+
+```ad-example
+```java
+capitalCities.get("England");
+```
 
 ## Reference

@@ -37,6 +37,52 @@ In the example, `java.util` is a package, while `Scanner` is a class of the `jav
 import java.util.Scanner;
 ```
 
+To use the `Scanner` class, create an object of the class and use any of the available methods found in the `Scanner` class documentation. We will use the `nextLine()` method, which is used to read a complete line
 
+```ad-example
+```java
+import java.util.Scanner;
 
+class MyClass {
+  public static void main(String[] args) {
+    Scanner myObj = new Scanner(System.in);
+    System.out.println("Enter username");
+
+    String userName = myObj.nextLine();
+    System.out.println("Username is: " + userName);
+  }
+}
+```
+
+### <span style="color: #ff5545;text-transform: capitalize;">import a package</span>
+There are many packages to choose from. In the previous example, we used the `Scanner` class from the `java.util` package. This package also contains date and time facilities, random-number generator and other utility classes.
+
+To import a whole package, end the sentence with an asterisk sign (`*`). The following example will import ALL the classes in the `java.util` package
+```ad-example
+```java
+import java.util.*;
+```
+
+### <span style="color: #ff5545;text-transform: capitalize;">User defined classes</span>
+
+To create your own package, you need to understand that Java uses a file system directory to store them. Just like folders on your computer
+```ad-example
+└── root
+$\quad$└── mypack
+$\qquad$└── MyPackageClass.java
+```
+To create a package, use the `package` keyword
+```ad-example
+```java
+package mypack;
+class MyPackageClass {
+  public static void main(String[] args) {
+    System.out.println("This is my package!");
+  }
+}
+```
+Save the file as **MyPackageClass.java**, and compile it
+```cmd
+C:\Users\_Your Name_>javac MyPackageClass.java
+```
 ## Reference

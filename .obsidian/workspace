@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Linked List.md",
+            "file": "University/CSIS215/Iterator.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Linked List.md",
+                "file": "University/CSIS215/Iterator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Linked List.md",
+                "file": "University/CSIS215/Iterator.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Linked List.md"
+                "file": "University/CSIS215/Iterator.md"
               }
             }
           },
@@ -131,10 +131,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
+    "University/CSIS215/Iterator.md",
     "University/CSIS215/Linked List.md",
     "University/CSIS215/ArrayList.md",
     "University/CSIS215/[Java Packages.md",
@@ -143,7 +145,6 @@
     "University/CSIS215/Wrapper classes.md",
     "University/CSIS215/Java Packages.md",
     "University/CSIS215/Inner classes.md",
-    "University/CSIS215/Polymorphism.md",
-    "University/CSIS215/OOP introduction.md"
+    "University/CSIS215/Polymorphism.md"
   ]
 }

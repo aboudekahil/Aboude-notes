@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "University/CSIS215/Interfaces.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 222,
+    "collapsed": true
   },
   "right": {
     "id": "0cbf1908fb0fc370",

@@ -10,9 +10,9 @@ Last modified: 2022-01-03-15:21
 ___
 
 ### <span style="color: #ff5545;text-transform: capitalize;">What are enums?</span>
-An `enum` is a special "class" that represents a group of **constants** (unchangeable variables, like `final` variables).
+An `enum` is a special "[[Classes and Objects|class]]" that represents a group of **constants** (unchangeable [[variables]], like `final` [[variables]]).
 
-To create an `enum`, use the `enum` keyword (instead of class or interface), and separate the constants with a comma. Note that they should be in uppercase letters:
+To create an `enum`, use the `enum` [[Keywords|keyword]] (instead of [[Classes and Objects|class]] or interface), and separate the constants with a comma. Note that they should be in uppercase letters:
 
 ```ad-example
 ```java
@@ -33,7 +33,7 @@ Level myVar = Level.MEDIUM;
 ```
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Enums inside class</span>
-You can also have an `enum` inside a class
+You can also have an `enum` inside a [[Classes and Objects|class]]
 ```ad-example
 ```java
 public class Main {
@@ -92,7 +92,7 @@ HIGH
 */
 ```
 ### <span style="color: #ff5545;text-transform: capitalize;">Enum Constructors</span>
-Enums can have constructors to set attributes to the enum constants but you have to set it manually when typing the enum constants
+Enums can have [[constructors]] to set [[Class attributes|attributes]] to the enum constants but you have to set it manually when typing the enum constants
 ```ad-example
 ```java
 enum Transport{
@@ -106,8 +106,17 @@ enum Transport{
 }
 class Main{
 	public static void main(String[] args){
-		Transport t
+		Transport tp = Transport.CAR;
+		
+		System.out.println(tp.speed);
 	}
 }
 ```
+
+```ad-note
+title:Note from aboude
+Enums are so useless don't use them **ever**
+```
+
 ## Reference
+[[Classes and Objects]] | [[Variables]] | [[Keywords]] | [[Constructors]] | [[Class attributes]]

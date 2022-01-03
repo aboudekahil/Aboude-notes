@@ -49,3 +49,4 @@ The `this` [[Keywords|keyword]] is used to refer to the current [[Classes and Ob
 However, as the `name` variable is declared as `private`, we **cannot** access it from outside this [[Classes and Objects|class]]
 ```
 ## Reference
+[[Classes and Objects]] | [[Variables]] | [[Class attributes]] | [[Methods]]

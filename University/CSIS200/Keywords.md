@@ -1,5 +1,5 @@
 ---
-aliases: [keywo]
+aliases: [keyword]
 author: aboude
 ---
 # Keywords

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Modifiers.md",
+            "file": "University/CSIS215/ArrayList.md",
             "mode": "preview"
           }
         }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222,
-    "collapsed": true
+    "width": 222
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Modifiers.md",
+                "file": "University/CSIS215/ArrayList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +101,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Modifiers.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "file": "University/CSIS215/ArrayList.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Modifiers.md"
+                "file": "University/CSIS215/ArrayList.md"
               }
             }
           },
@@ -136,15 +135,15 @@
   },
   "active": "9fc94cbc4166c26e",
   "lastOpenFiles": [
+    "University/CSIS215/ArrayList.md",
+    "University/CSIS215/Abstraction.md",
+    "University/CSIS215/!Reference list.md",
     "University/CSIS215/Modifiers.md",
     "University/CSIS215/OOP introduction.md",
     "University/CSIS215/Linked List.md",
     "University/CSIS215/Lambda expression.md",
     "University/CSIS215/Java Packages.md",
     "University/CSIS215/Java Exceptions.md",
-    "University/CSIS215/Iterators.md",
-    "University/CSIS215/Interfaces.md",
-    "University/CSIS215/Inner classes.md",
-    "University/CSIS215/Inheritance.md"
+    "University/CSIS215/Iterators.md"
   ]
 }

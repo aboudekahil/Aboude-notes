@@ -25,4 +25,34 @@ public class Main {
 }
 ```
 
+### <span style="color: #ff5545;text-transform: capitalize;">Accessing attributes</span>
+You can access attributes by creating an object of the class, and by using the dot syntax (`.`):
+
+```ad-example
+```java
+public class Main {
+  int x = 5;
+
+  public static void main(String[] args) {
+    Main myObj = new Main();
+    System.out.println(myObj.x);
+  }
+}
+```
+
+### <span style="color: #ff5545;text-transform: capitalize;">Modifying attributes</span>
+You can modify attributes by using the assignment operator (`=`)
+```ad-example
+```java
+public class Main {
+  int x;
+
+  public static void main(String[] args) {
+    Main myObj = new Main();
+    myObj.x = 40;
+    System.out.println(myObj.x); 
+  }
+}
+```
+
 ## Reference

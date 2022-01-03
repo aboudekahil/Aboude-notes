@@ -36,7 +36,7 @@ Non-primitive data types are called **reference types** because they refer to ob
 
 ```ad-example
 title:Examples of none-primitive types:
-Examples of non-primitive types are [[Strings]], [[Arrays]], [[Classes and Objects|Classes]], [[Interfaces]], etc.
+Examples of non-primitive types are [[Strings]], [[Arrays]], [[Interfaces]], etc.
 ```
 ### <span style="color: #ff5545;text-transform: capitalize;"> what's the difference between primitive and non-primitive variable types?
 The main difference between **[[Variable types#span style color ff5545 text-transform capitalize Primitive data types span|primitive]]** and **[[Variable types#span style color ff5545 text-transform capitalize none-primitive types span|non-primitive]]** data types are:

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Class methods.md",
-            "mode": "preview"
+            "file": "University/CSIS215/Constructors.md",
+            "mode": "source"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Class methods.md",
+                "file": "University/CSIS215/Constructors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Class methods.md",
+                "file": "University/CSIS215/Constructors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Class methods.md"
+                "file": "University/CSIS215/Constructors.md"
               }
             }
           },
@@ -136,6 +136,7 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
+    "University/CSIS215/Constructors.md",
     "University/CSIS215/Class methods.md",
     "University/CSIS215/Classes and Objects.md",
     "University/CSIS215/Class attributes.md",
@@ -144,7 +145,6 @@
     "University/CSIS215/!Reference list.md",
     "University/CSIS215/Modifiers.md",
     "University/CSIS215/OOP introduction.md",
-    "University/CSIS215/Linked List.md",
-    "University/CSIS215/Lambda expression.md"
+    "University/CSIS215/Linked List.md"
   ]
 }

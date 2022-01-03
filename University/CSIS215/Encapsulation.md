@@ -48,5 +48,11 @@ The `this` [[Keywords|keyword]] is used to refer to the current [[Classes and Ob
 
 However, as the `name` variable is declared as `private`, we **cannot** access it from outside this [[Classes and Objects|class]]
 ```
+### <span style="color: #ff5545;text-transform: capitalize;">Why use encapsulation?</span>
+-   Better control of [[Classes and Objects|class]] [[Class attributes|attributes]] and [[methods]]
+
+-   [[Classes and Objects|Class]] [[Class attributes|attributes]] can be made **read-only** (if you only use the `get` method), or **write-only** (if you only use the `set` method)
+-   Flexible: the programmer can change one part of the code without affecting other parts
+-   Increased security of data
 ## Reference
 [[Classes and Objects]] | [[Variables]] | [[Class attributes]] | [[Methods]]

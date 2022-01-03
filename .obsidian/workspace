@@ -131,12 +131,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
     "University/CSIS215/ArrayList.md",
+    "University/CSIS215/[Java Packages.md",
     "University/CSIS215/Linked List.md",
     "University/CSIS215/Java Exceptions.md",
     "University/CSIS215/Threads.md",
@@ -144,7 +144,6 @@
     "University/CSIS215/Java Packages.md",
     "University/CSIS215/Inner classes.md",
     "University/CSIS215/Polymorphism.md",
-    "University/CSIS215/OOP introduction.md",
-    "University/CSIS215/Modifiers.md"
+    "University/CSIS215/OOP introduction.md"
   ]
 }

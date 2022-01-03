@@ -9,7 +9,7 @@ Last modified: 2022-01-03-15:54
 
 ___
 ### <span style="color: #ff5545;text-transform: capitalize;">What are wrapper classes?</span>
-Wrapper [[Classes and Objects|classes]] provide a way to use primitive [[Variable types|data types]] (`int`, `boolean`, etc..) as [[Classes and Objects|objects]].
+Wrapper [[Classes and Objects|classes]] provide a way to use primitive [[Variable types|data types]] (`int`, `[[Booleans|boolean]]`, etc..) as [[Classes and Objects|objects]].
 
 The table below shows the primitive type and the equivalent wrapper [[Classes and Objects|class]]:
 
@@ -35,7 +35,7 @@ ArrayList<Integer> myNumbers = new ArrayList<Integer>(); // Valid
 ```
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Creating wrapper objects</span>
-To create a wrapper object, use the wrapper class instead of the primitive type. To get the value, you can just print the object
+To create a wrapper [[Classes and Objects|object]], use the wrapper [[Classes and Objects|class]] instead of the primitive type. To get the value, you can just print the [[Classes and Objects|object]]
 
 ```ad-example
 ```java
@@ -51,9 +51,9 @@ public class Main {
 }
 ```
 
-Since you're now working with objects, you can use certain methods to get information about the specific object.
+Since you're now working with [[Classes and Objects|objects]], you can use certain [[methods]] to get information about the specific [[Classes and Objects|object]].
 
-For example, the following methods are used to get the value associated with the corresponding wrapper object: `intValue()`, `byteValue()`, `shortValue()`, `longValue()`, `floatValue()`, `doubleValue()`, `charValue()`, `booleanValue()`.
+For example, the following [[methods]] are used to get the value associated with the corresponding wrapper [[Classes and Objects|object]]: `intValue()`, `byteValue()`, `shortValue()`, `longValue()`, `floatValue()`, `doubleValue()`, `charValue()`, `booleanValue()`.
 
 ```ad-example
 ```java
@@ -69,10 +69,10 @@ public class Main {
 }
 ```
 
-Another useful method is the `toString()` method, which is used to convert wrapper objects to strings.
+Another useful method is the `toString()` method, which is used to convert wrapper [[Classes and Objects|objects]] to [[strings]].
 
 ```ad-example
-In the following example, we convert an `Integer` to a `String`, and use the `length()` method of the `String` class to output the length of the "string"
+In the following example, we convert an `Integer` to a `String`, and use the `length()` method of the `String` [[Classes and Objects|class]] to output the length of the "string"
 ```java
 public class Main {
   public static void main(String[] args) {
@@ -84,3 +84,4 @@ public class Main {
 ```
 
 ## Reference
+[[Classes and Objects]] | [[Variable types]] | [[ArrayList]] | [[Methods]] | [[Strings]] | [[Booleans]]

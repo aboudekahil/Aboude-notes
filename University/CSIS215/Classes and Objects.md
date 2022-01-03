@@ -1,5 +1,6 @@
 ---
 author: aboude
+aliases: [class, object, classes, objects]
 ---
 # Classes and Objects
 ___

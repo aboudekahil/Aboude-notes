@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9fc94cbc4166c26e",
+        "id": "40523c3e8ccb7f30",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Class attributes.md",
-            "mode": "source"
+            "file": "University/CSIS215/Classes and Objects.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222,
-    "collapsed": true
+    "width": 222
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Class attributes.md",
+                "file": "University/CSIS215/Classes and Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +101,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Class attributes.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "file": "University/CSIS215/Classes and Objects.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Class attributes.md"
+                "file": "University/CSIS215/Classes and Objects.md"
               }
             }
           },
@@ -134,8 +133,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9fc94cbc4166c26e",
+  "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
+    "University/CSIS215/Classes and Objects.md",
+    "University/CSIS215/Class methods.md",
     "University/CSIS215/Class attributes.md",
     "University/CSIS215/ArrayList.md",
     "University/CSIS215/Abstraction.md",
@@ -143,8 +144,6 @@
     "University/CSIS215/Modifiers.md",
     "University/CSIS215/OOP introduction.md",
     "University/CSIS215/Linked List.md",
-    "University/CSIS215/Lambda expression.md",
-    "University/CSIS215/Java Packages.md",
-    "University/CSIS215/Java Exceptions.md"
+    "University/CSIS215/Lambda expression.md"
   ]
 }

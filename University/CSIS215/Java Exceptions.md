@@ -19,7 +19,7 @@ The `try` statement allows you to define a block of code to be tested for errors
 
 The `catch` statement allows you to define a block of code to be executed, if an error occurs in the try block.
 
-The `try` and `catch` keywords come in pairs:
+The `try` and `catch` [[keywords]] come in pairs:
 
 ```ad-example
 title:Syntax
@@ -110,3 +110,4 @@ Exception in thread "main" java.lang.ArithmeticException: Access denied - You mu
 
 
 ## Reference
+[[Keywords]]

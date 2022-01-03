@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Interfaces.md",
-            "mode": "preview"
+            "file": "University/CSIS215/Enums.md",
+            "mode": "source"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Interfaces.md",
+                "file": "University/CSIS215/Enums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Interfaces.md",
+                "file": "University/CSIS215/Enums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Interfaces.md"
+                "file": "University/CSIS215/Enums.md"
               }
             }
           },
@@ -136,6 +136,7 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
+    "University/CSIS215/Enums.md",
     "University/CSIS215/Interfaces.md",
     "University/CSIS215/Abstraction.md",
     "University/CSIS215/Polymorphism.md",
@@ -144,7 +145,6 @@
     "University/CSIS200/Keywords.md",
     "University/CSIS215/Constructors.md",
     "University/CSIS215/Class attributes.md",
-    "University/CSIS215/Class methods.md",
-    "University/CSIS215/Classes and Objects.md"
+    "University/CSIS215/Class methods.md"
   ]
 }

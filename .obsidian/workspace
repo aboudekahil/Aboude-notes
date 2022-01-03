@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Java Exceptions.md",
-            "mode": "preview"
+            "file": "University/CSIS215/Threads.md",
+            "mode": "source"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Java Exceptions.md",
+                "file": "University/CSIS215/Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Java Exceptions.md",
+                "file": "University/CSIS215/Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Java Exceptions.md"
+                "file": "University/CSIS215/Threads.md"
               }
             }
           },
@@ -136,8 +136,8 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
-    "University/CSIS215/Java Exceptions.md",
     "University/CSIS215/Threads.md",
+    "University/CSIS215/Java Exceptions.md",
     "University/CSIS215/Wrapper classes.md",
     "University/CSIS215/Java Packages.md",
     "University/CSIS215/Inner classes.md",

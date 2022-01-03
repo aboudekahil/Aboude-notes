@@ -49,4 +49,10 @@ public class Main {
   }
 }
 ```
+
+### <span style="color: #ff5545;text-transform: capitalize;">Enums inside a switch statements</span>
+Enums are often used in `switch` statements to check for corresponding values
+```ad-example
+
+```
 ## Reference

@@ -53,4 +53,4 @@ ___
 ### <span style="color: #ff5545;text-transform: capitalize;">rockStar developer Misc.</span>
 - [ ] CI/CD
 - [ ] Testing (cypress.io…)
-- [ ] 
+- [ ] Security (End to End)

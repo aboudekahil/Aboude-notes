@@ -18,4 +18,22 @@ ___
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Bare minimum misc.</span>
 - [ ] MongoDB Atlas (NoSQL)
-- [ ] 
+- [ ] Planet Scale (SQL)
+- [ ] Vercel/NetSky/CloudFlare
+
+### <span style="color: #ff5545;text-transform: capitalize;">Strong developer frontEnd</span>
+- [ ] tailwindcss
+- [ ] ReactJS/NextJS
+- [ ] DevTools
+
+### <span style="color: #ff5545;text-transform: capitalize;">Strong developer backEnd</span>
+- [ ] linux (bash)
+- [ ] Networking
+- [ ] Cashing (Redis)
+- [ ] Web security
+
+### <span style="color: #ff5545;text-transform: capitalize;">strong developer Misc.</span>
+- [ ] npm/yarn
+- [ ] git
+- [ ] ESLint / prettier / webpack
+- [ ] GitHub

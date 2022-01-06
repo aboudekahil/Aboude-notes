@@ -4,15 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "40523c3e8ccb7f30",
+        "id": "733f6b1bc5bf2994",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "f4e0960f949de53e",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "attachments/Math201 Example 1.png"
+          }
+        }
+      },
+      {
+        "id": "23293b4ca9f64c82",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/MATH212/Sorting Algorithms.md",
-            "mode": "source",
-            "source": false
+            "file": "University/CSIS215/Class methods.md",
+            "mode": "source"
           }
+        }
+      },
+      {
+        "id": "4b8281cdb102bafd",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -56,21 +81,12 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "2a94f519bc28ab5d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 319,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -86,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/MATH212/Sorting Algorithms.md",
+                "file": "University/CSIS215/Class methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +119,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/MATH212/Sorting Algorithms.md",
+                "file": "University/CSIS215/Class methods.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -115,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/MATH212/Sorting Algorithms.md"
+                "file": "University/CSIS215/Class methods.md"
               }
             }
           },
@@ -127,25 +143,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "40523c3e8ccb7f30",
+  "active": "23293b4ca9f64c82",
   "lastOpenFiles": [
-    "University/MATH212/Sorting Algorithms.md",
-    "Fleeting notes/Full stack web dev roadmap.md",
-    "University/Schedules/My Spring Schedule 2021-2022.md",
-    "University/MATH246/!Reference list.md",
-    "University/CSIS215/!Reference list.md",
-    "University/CSIS215/Hash set.md",
-    "University/CSIS200/Variable types.md",
-    "University/CSIS215/Hash maps.md",
-    "University/CSIS215/Iterator.md",
-    "University/CSIS215/Linked List.md"
+    "University/CSIS215/Class methods.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/Math201 Example 1.png",
+    "Templates/notes template.md",
+    "attachments/Example of a sequence that converges to a.png",
+    "attachments/arr.png",
+    "attachments/Case I geomteric construction.png",
+    "attachments/Case III geomteric construction.png",
+    "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
+    "Univerisity/Schedules/My Fall Schedule 2021-2022.md"
   ]
 }

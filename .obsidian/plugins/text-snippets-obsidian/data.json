@@ -10,6 +10,6 @@
   "stopSymbol": "$tb$",
   "pasteSymbol": "$pst$",
   "useTab": false,
-  "useSpace": false,
+  "useSpace": true,
   "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/"
 }

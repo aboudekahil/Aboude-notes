@@ -1,3 +1,7 @@
 {
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "newFileLocation": "current"
 }

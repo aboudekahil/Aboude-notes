@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "foldHeading": true,
   "showLineNumber": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "legacyEditor": false
 }

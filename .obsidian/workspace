@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "University/MATH212/Sorting Algorithms.md",
-            "mode": "preview"
+            "mode": "source",
+            "source": false
           }
         }
       }

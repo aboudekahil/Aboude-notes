@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting notes/Full stack web dev roadmap.md",
+            "file": "University/MATH212/Sorting Algorithms.md",
             "mode": "preview"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting notes/Full stack web dev roadmap.md",
+                "file": "University/MATH212/Sorting Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting notes/Full stack web dev roadmap.md",
+                "file": "University/MATH212/Sorting Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting notes/Full stack web dev roadmap.md"
+                "file": "University/MATH212/Sorting Algorithms.md"
               }
             }
           },
@@ -136,6 +136,7 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
+    "University/MATH212/Sorting Algorithms.md",
     "Fleeting notes/Full stack web dev roadmap.md",
     "University/Schedules/My Spring Schedule 2021-2022.md",
     "University/MATH246/!Reference list.md",
@@ -144,7 +145,6 @@
     "University/CSIS200/Variable types.md",
     "University/CSIS215/Hash maps.md",
     "University/CSIS215/Iterator.md",
-    "University/CSIS215/Linked List.md",
-    "University/CSIS215/ArrayList.md"
+    "University/CSIS215/Linked List.md"
   ]
 }

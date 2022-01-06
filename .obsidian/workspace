@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "733f6b1bc5bf2994",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "f4e0960f949de53e",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "attachments/Math201 Example 1.png"
-          }
-        }
-      },
-      {
         "id": "23293b4ca9f64c82",
         "type": "leaf",
+        "dimension": 62.45161290322581,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Class methods.md",
-            "mode": "source"
+            "file": "University/CSIS215/Abstraction.md",
+            "mode": "preview"
           }
         }
       },
       {
         "id": "4b8281cdb102bafd",
         "type": "leaf",
+        "dimension": 37.5483870967742,
         "state": {
           "type": "empty",
           "state": {}
@@ -102,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Class methods.md",
+                "file": "University/CSIS215/Abstraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Class methods.md",
+                "file": "University/CSIS215/Abstraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Class methods.md"
+                "file": "University/CSIS215/Abstraction.md"
               }
             }
           },
@@ -152,15 +136,15 @@
   },
   "active": "23293b4ca9f64c82",
   "lastOpenFiles": [
+    "University/CSIS215/Abstraction.md",
+    "University/CSIS215/ArrayList.md",
+    "University/CSIS215/!Reference list.md",
     "University/CSIS215/Class methods.md",
     "conflict-files-obsidian-git.md",
     "attachments/Math201 Example 1.png",
     "Templates/notes template.md",
     "attachments/Example of a sequence that converges to a.png",
     "attachments/arr.png",
-    "attachments/Case I geomteric construction.png",
-    "attachments/Case III geomteric construction.png",
-    "Univerisity/Schedules/My Spring Schedule 2021-2022.md",
-    "Univerisity/Schedules/My Fall Schedule 2021-2022.md"
+    "attachments/Case I geomteric construction.png"
   ]
 }

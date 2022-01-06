@@ -6,12 +6,12 @@ Last modified: 2022-01-06-12:24
 
 ___
 
-### <span style="color: #ff5545;text-transform: capitalize;">Bare minimum front end</span>
+### <span style="color: #ff5545;text-transform: capitalize;">Bare minimum frontEnd</span>
 - [ ] HTML
 - [ ] CSS
 - [ ] JavaScript (ES6+)
 
-### <span style="color: #ff5545;text-transform: capitalize;">Bare minimum back end</span>
+### <span style="color: #ff5545;text-transform: capitalize;">Bare minimum backEnd</span>
 - [ ] NodeJs/Python/Rust
 - [ ] APIs (REST)
 - [ ] HTTP
@@ -37,3 +37,20 @@ ___
 - [ ] git
 - [ ] ESLint / prettier / webpack
 - [ ] GitHub
+
+### <span style="color: #ff5545;text-transform: capitalize;">rockStar developer frontEnd</span>
+- [ ] profiling / performance
+- [ ] WASM
+- [ ] TypeScript
+- [ ] Staying up to date
+
+### <span style="color: #ff5545;text-transform: capitalize;">rockStar developer backEnd</span>
+- [ ] cloud (AWS, GoogleCloud, Digital Ocean)
+- [ ] Serverless / Managed ($\lambda$)
+- [ ] TypeScript
+- [ ] Staying up to date
+
+### <span style="color: #ff5545;text-transform: capitalize;">rockStar developer Misc.</span>
+- [ ] CI/CD
+- [ ] Testing (cypress.io…)
+- [ ] 

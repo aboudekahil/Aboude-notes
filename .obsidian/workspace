@@ -22,6 +22,17 @@
         }
       },
       {
+        "id": "23293b4ca9f64c82",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "4b8281cdb102bafd",
         "type": "leaf",
         "state": {
@@ -91,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/Math201 Example 1.png",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/Math201 Example 1.png",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/Math201 Example 1.png"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -139,10 +150,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f4e0960f949de53e",
+  "active": "23293b4ca9f64c82",
   "lastOpenFiles": [
-    "attachments/Math201 Example 1.png",
     "conflict-files-obsidian-git.md",
+    "attachments/Math201 Example 1.png",
     "Templates/notes template.md",
     "attachments/Example of a sequence that converges to a.png",
     "attachments/arr.png",

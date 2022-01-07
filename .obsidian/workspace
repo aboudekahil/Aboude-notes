@@ -4,24 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "23293b4ca9f64c82",
+        "id": "40523c3e8ccb7f30",
         "type": "leaf",
-        "dimension": 62.45161290322581,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Abstraction.md",
-            "mode": "preview"
+            "file": "Fleeting notes/Full stack web dev roadmap.md",
+            "mode": "source",
+            "source": false
           }
-        }
-      },
-      {
-        "id": "4b8281cdb102bafd",
-        "type": "leaf",
-        "dimension": 37.5483870967742,
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -65,12 +56,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "2a94f519bc28ab5d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 319,
+    "collapsed": true
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Abstraction.md",
+                "file": "Fleeting notes/Full stack web dev roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +103,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Abstraction.md",
+                "file": "Fleeting notes/Full stack web dev roadmap.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Abstraction.md"
+                "file": "Fleeting notes/Full stack web dev roadmap.md"
               }
             }
           },
@@ -127,24 +127,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "23293b4ca9f64c82",
+  "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
-    "University/CSIS215/Abstraction.md",
-    "University/CSIS215/ArrayList.md",
+    "Fleeting notes/Full stack web dev roadmap.md",
+    "University/MATH212/Sorting Algorithms.md",
+    "University/Schedules/My Spring Schedule 2021-2022.md",
+    "University/MATH246/!Reference list.md",
     "University/CSIS215/!Reference list.md",
-    "University/CSIS215/Class methods.md",
-    "conflict-files-obsidian-git.md",
-    "attachments/Math201 Example 1.png",
-    "Templates/notes template.md",
-    "attachments/Example of a sequence that converges to a.png",
-    "attachments/arr.png",
-    "attachments/Case I geomteric construction.png"
+    "University/CSIS215/Hash set.md",
+    "University/CSIS200/Variable types.md",
+    "University/CSIS215/Hash maps.md",
+    "University/CSIS215/Iterator.md",
+    "University/CSIS215/Linked List.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/MATH212/Sorting Algorithms.md",
+            "file": "University/CSIS215/ArrayList.md",
             "mode": "preview",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/MATH212/Sorting Algorithms.md",
+                "file": "University/CSIS215/ArrayList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/MATH212/Sorting Algorithms.md",
+                "file": "University/CSIS215/ArrayList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/MATH212/Sorting Algorithms.md"
+                "file": "University/CSIS215/ArrayList.md"
               }
             }
           },
@@ -137,6 +137,7 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
+    "University/CSIS215/ArrayList.md",
     "University/MATH212/Sorting Algorithms.md",
     "University/Schedules/My Spring Schedule 2021-2022.md",
     "conflict-files-obsidian-git.md",
@@ -145,7 +146,6 @@
     "University/CSIS215/!Reference list.md",
     "University/CSIS215/Hash set.md",
     "University/CSIS200/Variable types.md",
-    "University/CSIS215/Hash maps.md",
-    "University/CSIS215/Iterator.md"
+    "University/CSIS215/Hash maps.md"
   ]
 }

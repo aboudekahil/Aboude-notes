@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/Schedules/My Spring Schedule 2021-2022.md",
+            "file": "University/MATH212/Sorting Algorithms.md",
             "mode": "preview",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Schedules/My Spring Schedule 2021-2022.md",
+                "file": "University/MATH212/Sorting Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Schedules/My Spring Schedule 2021-2022.md",
+                "file": "University/MATH212/Sorting Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Schedules/My Spring Schedule 2021-2022.md"
+                "file": "University/MATH212/Sorting Algorithms.md"
               }
             }
           },
@@ -137,10 +137,10 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
+    "University/MATH212/Sorting Algorithms.md",
     "University/Schedules/My Spring Schedule 2021-2022.md",
     "conflict-files-obsidian-git.md",
     "Fleeting notes/Full stack web dev roadmap.md",
-    "University/MATH212/Sorting Algorithms.md",
     "University/MATH246/!Reference list.md",
     "University/CSIS215/!Reference list.md",
     "University/CSIS215/Hash set.md",

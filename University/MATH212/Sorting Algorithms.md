@@ -1,4 +1,5 @@
 ---
+aliases: [bubble sort, insert sort, sort, sorting]
 author: aboude
 ---
 # Sorting Algorithms

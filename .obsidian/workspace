@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting notes/Full stack web dev roadmap.md",
-            "mode": "source",
+            "file": "University/Schedules/My Spring Schedule 2021-2022.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting notes/Full stack web dev roadmap.md",
+                "file": "University/Schedules/My Spring Schedule 2021-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting notes/Full stack web dev roadmap.md",
+                "file": "University/Schedules/My Spring Schedule 2021-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting notes/Full stack web dev roadmap.md"
+                "file": "University/Schedules/My Spring Schedule 2021-2022.md"
               }
             }
           },
@@ -137,15 +137,15 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
+    "University/Schedules/My Spring Schedule 2021-2022.md",
+    "conflict-files-obsidian-git.md",
     "Fleeting notes/Full stack web dev roadmap.md",
     "University/MATH212/Sorting Algorithms.md",
-    "University/Schedules/My Spring Schedule 2021-2022.md",
     "University/MATH246/!Reference list.md",
     "University/CSIS215/!Reference list.md",
     "University/CSIS215/Hash set.md",
     "University/CSIS200/Variable types.md",
     "University/CSIS215/Hash maps.md",
-    "University/CSIS215/Iterator.md",
-    "University/CSIS215/Linked List.md"
+    "University/CSIS215/Iterator.md"
   ]
 }

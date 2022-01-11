@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Interfaces.md",
+            "file": "University/CSIS215/Enums.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Interfaces.md",
+                "file": "University/CSIS215/Enums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Interfaces.md",
+                "file": "University/CSIS215/Enums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Interfaces.md"
+                "file": "University/CSIS215/Enums.md"
               }
             }
           },
@@ -136,15 +136,15 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
-    "University/CSIS215/Interfaces.md",
+    "University/CSIS215/Enums.md",
     "University/CSIS215/!Reference list.md",
+    "University/CSIS215/Interfaces.md",
     "University/CSIS215/Classes and Objects.md",
     "University/CSIS215/Abstraction.md",
     "University/CSIS215/Inner classes.md",
     "University/CSIS215/Polymorphism.md",
     "University/CSIS215/Inheritance.md",
     "University/CSIS215/Java Packages.md",
-    "University/CSIS215/Encapsulation.md",
-    "University/CSIS215/Modifiers.md"
+    "University/CSIS215/Encapsulation.md"
   ]
 }

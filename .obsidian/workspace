@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/Schedules/My Spring Schedule 2021-2022.md",
+            "file": "University/CSIS215/Class methods.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Schedules/My Spring Schedule 2021-2022.md",
+                "file": "University/CSIS215/Class methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Schedules/My Spring Schedule 2021-2022.md",
+                "file": "University/CSIS215/Class methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Schedules/My Spring Schedule 2021-2022.md"
+                "file": "University/CSIS215/Class methods.md"
               }
             }
           },
@@ -136,9 +136,9 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
-    "University/Schedules/My Spring Schedule 2021-2022.md",
     "University/CSIS215/Class methods.md",
     "University/CSIS215/!Reference list.md",
+    "University/Schedules/My Spring Schedule 2021-2022.md",
     "University/CSIS215/Class attributes.md",
     "University/CSIS215/Classes and Objects.md",
     "University/CSIS215/OOP introduction.md",

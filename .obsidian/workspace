@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Classes and Objects.md",
+            "file": "University/CSIS215/!Reference list.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 198
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Classes and Objects.md",
+                "file": "University/CSIS215/!Reference list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Classes and Objects.md",
+                "file": "University/CSIS215/!Reference list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Classes and Objects.md"
+                "file": "University/CSIS215/!Reference list.md"
               }
             }
           },
@@ -136,8 +136,8 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
-    "University/CSIS215/Classes and Objects.md",
     "University/CSIS215/!Reference list.md",
+    "University/CSIS215/Classes and Objects.md",
     "University/CSIS215/OOP introduction.md",
     "University/CSIS215/Constructors.md",
     "University/CSIS215/Class methods.md",

@@ -50,4 +50,8 @@ arr[arr.length - 2] // returns 5
 arr.at(-2) // returns 5
 ```
 
+### <span style="color: #ff5545;text-transform: capitalize;">Object.hasOwn()</span>
+
+In JavaScript there already exists an `Object.prototype.hasOwnProperty` but, as the MDN documentation also suggests, it’s best to not use hasOwnProperty outside the prototype itself as it is not a protected property, meaning that an object could have its property called `hasOwnProperty` that has nothing to do with `Object.prototype.hasOwnProperty`.
+
 ## Reference

@@ -9,7 +9,7 @@
   "newlineSymbol": "$nl$",
   "stopSymbol": "$tb$",
   "pasteSymbol": "$pst$",
-  "useTab": false,
-  "useSpace": true,
+  "useTab": true,
+  "useSpace": false,
   "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/"
 }

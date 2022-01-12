@@ -4,5 +4,5 @@
   "foldHeading": true,
   "showLineNumber": true,
   "newFileLocation": "current",
-  "legacyEditor": false
+  "legacyEditor": true
 }

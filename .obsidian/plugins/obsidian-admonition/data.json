@@ -1,17 +1,5 @@
 {
   "userAdmonitions": {
-    "example": {
-      "type": "example",
-      "color": "203, 172, 16",
-      "icon": {
-        "name": "plus",
-        "type": "font-awesome"
-      },
-      "command": false,
-      "title": "Example",
-      "injectColor": true,
-      "noTitle": false
-    },
     "Do": {
       "type": "Do",
       "color": "81, 225, 150",
@@ -47,6 +35,19 @@
       "title": "Don't",
       "injectColor": true,
       "noTitle": false
+    },
+    "example": {
+      "type": "example",
+      "color": "203, 172, 16",
+      "icon": {
+        "name": "plus",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Example",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,

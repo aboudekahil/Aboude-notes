@@ -120,6 +120,17 @@ cow.#sayType() // error
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Static class properties</span>
 
+You can now use the static keyword in order to make static fields and methods
 
+```ad-example
+```javascript
+class Mathmatics{
+	static PI = 3.141592;
+	
+	static toRadians(degrees){
+		return (degrees * 180) / this.PI
+	}
+}
+```
 
 ## Reference

@@ -1,4 +1,5 @@
 ---
+aliases: [boolean]
 author: aboude
 ---
 # Booleans

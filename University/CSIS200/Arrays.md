@@ -1,4 +1,5 @@
 ---
+aliases: [array, java array]
 author: aboude
 ---
 # Arrays

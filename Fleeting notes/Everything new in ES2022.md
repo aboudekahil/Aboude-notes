@@ -128,9 +128,11 @@ class Mathmatics{
 	static PI = 3.141592;
 	
 	static toRadians(degrees){
-		return (degrees * 180) / this.PI
+		return (degrees * this.PI) / 180;
 	}
 }
-```
 
-## Reference
+console.log(Mathmatics.PI) // prints 3.1415
+
+console.log(Mathmatics.toRadians(180)) // prints PI
+```

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting notes/Everything new in ES2022.md",
+            "file": "University/CSIS200/Booleans.md",
             "mode": "source"
           }
         }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198,
-    "collapsed": true
+    "width": 198
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting notes/Everything new in ES2022.md",
+                "file": "University/CSIS200/Booleans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting notes/Everything new in ES2022.md",
+                "file": "University/CSIS200/Booleans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting notes/Everything new in ES2022.md"
+                "file": "University/CSIS200/Booleans.md"
               }
             }
           },
@@ -136,15 +135,15 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
+    "University/CSIS200/Booleans.md",
+    "University/CSIS200/Arrays.md",
+    "University/CSIS200/!Reference list.md",
+    "Fleeting notes/Full stack web dev roadmap.md",
     "Fleeting notes/Everything new in ES2022.md",
     "University/MATH201/Eigen values & Vectors.md",
     "University/MATH201/Diagonalization.md",
     "University/MATH201/Determinants.md",
-    "Fleeting notes/Full stack web dev roadmap.md",
     "University/CSIS215/Enums.md",
-    "University/CSIS215/!Reference list.md",
-    "University/CSIS215/Interfaces.md",
-    "University/CSIS215/Classes and Objects.md",
-    "University/CSIS215/Abstraction.md"
+    "University/CSIS215/!Reference list.md"
   ]
 }

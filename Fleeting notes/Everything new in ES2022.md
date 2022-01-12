@@ -87,14 +87,39 @@ Object.hasOwn(student,'age'); // true
 Object.hasOwn(student,'grade'); // false
 ```
 
-### <span style="color: #ff5545;text-transform: capitalize;">private and static class properties</span>
+### <span style="color: #ff5545;text-transform: capitalize;">private class properties</span>
 you can now make private variables and methods by putting a `#` before the identifier.
 ```ad-example
 ```javascript
 class Animal{
-	const #Sound
+	const #Sound;
+	const type;
+	
+	constructor(type, sound){
+		this.type = type;
+		this.#Sound = sound;
+	}
+	
+	say(){
+		console.log(this.#Sound);
+	}
+	
+	#sayType(){
+		console.log(this.type);
+	}
 }
+
+Animal cow = new Animal('Cow', 'Moo');
+
+console.log(cow.type); // prints Cow
+console.log(cow.#Sound); // error
+
+cow.say() // prints Moo
+cow.#sayType() // error
 ```
+
+### <span style="color: #ff5545;text-transform: capitalize;">Static class properties</span>
+
 
 
 ## Reference

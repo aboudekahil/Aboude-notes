@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Enums.md",
-            "mode": "preview",
+            "file": "Fleeting notes/Everything new in ES2022.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198
+    "width": 198,
+    "collapsed": true
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Enums.md",
+                "file": "Fleeting notes/Everything new in ES2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Enums.md",
+                "file": "Fleeting notes/Everything new in ES2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Enums.md"
+                "file": "Fleeting notes/Everything new in ES2022.md"
               }
             }
           },
@@ -136,15 +137,15 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
+    "Fleeting notes/Everything new in ES2022.md",
+    "University/MATH201/Eigen values & Vectors.md",
+    "University/MATH201/Diagonalization.md",
+    "University/MATH201/Determinants.md",
+    "Fleeting notes/Full stack web dev roadmap.md",
     "University/CSIS215/Enums.md",
     "University/CSIS215/!Reference list.md",
     "University/CSIS215/Interfaces.md",
     "University/CSIS215/Classes and Objects.md",
-    "University/CSIS215/Abstraction.md",
-    "University/CSIS215/Inner classes.md",
-    "University/CSIS215/Polymorphism.md",
-    "University/CSIS215/Inheritance.md",
-    "University/CSIS215/Java Packages.md",
-    "University/CSIS215/Encapsulation.md"
+    "University/CSIS215/Abstraction.md"
   ]
 }

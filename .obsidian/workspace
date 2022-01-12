@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS200/Do-While loops.md",
-            "mode": "source"
+            "file": "University/Schedules/My Spring Schedule 2021-2022.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198
+    "width": 198,
+    "collapsed": true
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS200/Do-While loops.md",
+                "file": "University/Schedules/My Spring Schedule 2021-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS200/Do-While loops.md",
+                "file": "University/Schedules/My Spring Schedule 2021-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS200/Do-While loops.md"
+                "file": "University/Schedules/My Spring Schedule 2021-2022.md"
               }
             }
           },
@@ -135,6 +136,7 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
+    "University/Schedules/My Spring Schedule 2021-2022.md",
     "University/CSIS200/Do-While loops.md",
     "University/CSIS200/Comments.md",
     "University/CSIS200/Characters.md",
@@ -143,7 +145,6 @@
     "University/CSIS200/Arrays.md",
     "University/CSIS200/!Reference list.md",
     "Fleeting notes/Full stack web dev roadmap.md",
-    "Fleeting notes/Everything new in ES2022.md",
-    "University/MATH201/Eigen values & Vectors.md"
+    "Fleeting notes/Everything new in ES2022.md"
   ]
 }

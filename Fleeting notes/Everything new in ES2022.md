@@ -53,5 +53,48 @@ arr.at(-2) // returns 5
 ### <span style="color: #ff5545;text-transform: capitalize;">Object.hasOwn()</span>
 
 In JavaScript there already exists an `Object.prototype.hasOwnProperty` but, as the MDN documentation also suggests, it’s best to not use hasOwnProperty outside the prototype itself as it is not a protected property, meaning that an object could have its property called `hasOwnProperty` that has nothing to do with `Object.prototype.hasOwnProperty`.
+```ad-example
+```javascript
+const obj = {
+
+ hasOwnProperty:()=> {
+
+ return false
+
+ }
+
+}
+
+obj.hasOwnProperty('prop'); // false
+```
+
+As you can see, we defined our own method `hasOwnProperty` that has overridden the one on the prototype, an issue that is not present with `Object.hasOwn()`.
+
+`Object.hasOwn()` takes our Object as the first argument and the property we want to check as the second
+
+```ad-example
+```javascript
+const student = {
+
+ name: 'Mark',
+
+ age: 18
+
+}
+
+Object.hasOwn(student,'age'); // true
+
+Object.hasOwn(student,'grade'); // false
+```
+
+### <span style="color: #ff5545;text-transform: capitalize;">private and static class properties</span>
+you can now make private variables and methods by putting a `#` before the identifier.
+```ad-example
+```javascript
+class Animal{
+	const #Sound
+}
+```
+
 
 ## Reference

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS200/Booleans.md",
+            "file": "University/CSIS200/Do-While loops.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS200/Booleans.md",
+                "file": "University/CSIS200/Do-While loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS200/Booleans.md",
+                "file": "University/CSIS200/Do-While loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS200/Booleans.md"
+                "file": "University/CSIS200/Do-While loops.md"
               }
             }
           },
@@ -135,15 +135,15 @@
   },
   "active": "40523c3e8ccb7f30",
   "lastOpenFiles": [
+    "University/CSIS200/Do-While loops.md",
+    "University/CSIS200/Comments.md",
+    "University/CSIS200/Characters.md",
+    "University/CSIS200/Break-Continue.md",
     "University/CSIS200/Booleans.md",
     "University/CSIS200/Arrays.md",
     "University/CSIS200/!Reference list.md",
     "Fleeting notes/Full stack web dev roadmap.md",
     "Fleeting notes/Everything new in ES2022.md",
-    "University/MATH201/Eigen values & Vectors.md",
-    "University/MATH201/Diagonalization.md",
-    "University/MATH201/Determinants.md",
-    "University/CSIS215/Enums.md",
-    "University/CSIS215/!Reference list.md"
+    "University/MATH201/Eigen values & Vectors.md"
   ]
 }

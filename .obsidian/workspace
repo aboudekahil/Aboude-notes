@@ -7,8 +7,11 @@
         "id": "71df50fd9492ac24",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "University/Schedules/My Spring Schedule 2021-2022.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University/Schedules/My Spring Schedule 2021-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University/Schedules/My Spring Schedule 2021-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University/Schedules/My Spring Schedule 2021-2022.md"
+              }
             }
           },
           {
@@ -128,6 +135,7 @@
   },
   "active": "71df50fd9492ac24",
   "lastOpenFiles": [
+    "University/Schedules/My Spring Schedule 2021-2022.md",
     "University/Schedules/Untitled.md",
     "University/MATH201/!Reference List.md",
     "University/MATH201/Alternating series.md",
@@ -135,7 +143,6 @@
     "University/MATH201/Infinite series.md",
     "Fleeting notes/Everything new in ES2022.md",
     "Fleeting notes/Hi rabab.md",
-    "University/Schedules/My Spring Schedule 2021-2022.md",
     "University/Schedules/My Fall Schedule 2021-2022.md",
     "University/CSIS200/Do-While loops.md"
   ]

@@ -46,7 +46,12 @@ This observation leads to the conclusion that
 **Then** $a_n$ is `convergent`
 ```
 
-##### Root Test
+##### Ratio Test
+```ad-definition
+if
+> $$a_n>0\,,\quad \frac{a_{n+1}}{a_n} < 1$$
 
+**Then** $a_1+a_2+\cdots$ converges
+```
 
 ## Reference

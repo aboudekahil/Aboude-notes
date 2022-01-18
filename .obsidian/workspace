@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "University/Schedules/My Spring Schedule 2021-2022.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -124,14 +124,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "698e8bb25bade1f1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "71df50fd9492ac24",
   "lastOpenFiles": [

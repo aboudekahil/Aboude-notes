@@ -76,4 +76,11 @@ This observation leads to the conclusion that
 
 **Then** $a_1+a_2+\cdots$ converges
 ```
+
+##### Integral test
+```ad-definition
+Suppose that $f(x)$ is a continuous, positive and decreasing function on the interval $\Big[k,\infty\Big)$ and that $f(n)=an$ **then**,
+
+1. if $$
+
 ## Reference

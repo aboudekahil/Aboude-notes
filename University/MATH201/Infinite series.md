@@ -22,5 +22,10 @@ For an infinite series $a_1 + a_2 + a_3 +\cdots$, a quantity $S_n = a_1 + a_2 +\
 ```ad-example
 title:  An example of a convergent series is
 $$1+\frac{1}{2}+\frac{1}{4}+\cdots+\frac{1}{2^n}$$ 
+\
+As _n_ becomes larger, the partial sum approaches 2, which is the sum of this infinite series.
 ```
+
+
+
 ## Reference

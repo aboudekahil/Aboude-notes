@@ -24,7 +24,6 @@ ___
 
 - [[Calculating Limits of Sequences]]
 - [[Infinite series]]
-- [[Series of Nonnegative Terms]]
 - [[Alternating series]]
 - [[Power series]]
 - [[Taylor and Maclaurin series]]

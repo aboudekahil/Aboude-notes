@@ -46,6 +46,12 @@ This observation leads to the conclusion that
 **Then** $a_n$ is `convergent`
 ```
 
+##### LCT
+
+```ad-definition
+**If**
+```
+
 ##### Ratio Test
 ```ad-definition
 if
@@ -54,4 +60,11 @@ if
 **Then** $a_1+a_2+\cdots$ converges
 ```
 
+##### Root Test
+```ad-definition
+if
+> $$a_n>0\,,\quad \sqrt[n]{a_n} < 1$$
+
+**Then** $a_1+a_2+\cdots$ converges
+```
 ## Reference

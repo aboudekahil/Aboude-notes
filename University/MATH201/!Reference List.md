@@ -13,6 +13,7 @@ ___
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Calculus</span>
 - [[Table of integration formulas]]
+
 - [[u-substitution]]
 - [[Integration by parts]]
 - [[Integrating Partial fractions]]
@@ -20,6 +21,7 @@ ___
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Sequence and series</span>
 - [[Limits of Sequences of Numbers]]
+
 - [[Calculating Limits of Sequences]]
 - [[Infinite series]]
 - [[Series of Nonnegative Terms]]
@@ -29,11 +31,13 @@ ___
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Multi-variable functions</span>
 - [[Functions of several variables]]
+
 - [[Limits and continuity]]
 - [[Partial derivatives]]
 - [[The chain rules]]
 ### <span style="color: #ff5545;text-transform: capitalize;">First order differential equations</span>
 - [[Basic concepts and ideas]]
+
 - [[Separable differential equations]]
 - [[Reduction to separable form]]
 - [[Exact differential equations]]
@@ -42,6 +46,7 @@ ___
 - [[Picard's iteration]]
 ### <span style="color: #ff5545;text-transform: capitalize;">Linear algebra</span>
 - [[Matrices]]
+
 - [[Solving linear systems]]
 - [[Gauss’s method]]
 - [[Eigen values & Vectors]]

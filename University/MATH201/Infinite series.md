@@ -29,7 +29,9 @@ As _n_ becomes larger, the partial sum approaches 2, which is the sum of this in
 ### <span style="color: #ff5545;text-transform: capitalize;">Convergence tests</span>
 
 Certain standard tests can be applied to determine the convergence or divergence of a given series, but such a determination is not always possible. 
+
 ##### DCT
+
 In general, if the series $a_1 + a_2 +\cdots$ converges, then it must be true that an approaches $0$ as $n$ becomes larger.
 
 Furthermore, adding or deleting a finite number of terms from a series never affects whether or not the series converges. Furthermore, if all the terms in a series are positive, its partial sums will increase, either approaching a finite quantity (converging) or growing without bound (diverging).

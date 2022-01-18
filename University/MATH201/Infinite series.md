@@ -36,4 +36,17 @@ In general, if the series $a_1 + a_2 +\cdots$ converges, then it must be true th
 
 Furthermore, adding or deleting a finite number of terms from a series never affects whether or not the series converges. Furthermore, if all the terms in a series are positive, its partial sums will increase, either approaching a finite quantity (converging) or growing without bound (diverging).
 
+This observation leads to the conclusion that 
+```ad-definition
+**if** 
+> $$0 \leq a_n \leq b_n $$
+
+**and** $b_n$ is `convergent`
+
+**Then** $a_n$ is `convergent`
+```
+
+##### Root Test
+
+
 ## Reference

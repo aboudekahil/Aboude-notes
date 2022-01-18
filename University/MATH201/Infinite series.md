@@ -49,12 +49,21 @@ This observation leads to the conclusion that
 ##### LCT
 
 ```ad-definition
-**If**
+**if**
+> $$a_n \geq 0,\quad b_n > 0$$
+
+**and**
+> $$c=\lim_{n\rightarrow\infty}{\frac{a_n}{b_n}}$$
+
+**and**
+> $$c>0,\quad c<\infty$$
+
+**Then** either `both` series converge or `both` diverge
 ```
 
 ##### Ratio Test
 ```ad-definition
-if
+**if**
 > $$a_n>0\,,\quad \frac{a_{n+1}}{a_n} < 1$$
 
 **Then** $a_1+a_2+\cdots$ converges
@@ -62,7 +71,7 @@ if
 
 ##### Root Test
 ```ad-definition
-if
+**if**
 > $$a_n>0\,,\quad \sqrt[n]{a_n} < 1$$
 
 **Then** $a_1+a_2+\cdots$ converges

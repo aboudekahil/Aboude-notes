@@ -1,5 +1,5 @@
 ---
-aliases: [MATH201 Reference List]
+aliases: [MATH201 Reference List, math for computation Reference List]
 author: aboude
 ---
 

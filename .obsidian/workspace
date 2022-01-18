@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/Schedules/My Spring Schedule 2021-2022.md",
-            "mode": "preview"
+            "file": "University/MATH201/Infinite series.md",
+            "mode": "source"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Schedules/My Spring Schedule 2021-2022.md",
+                "file": "University/MATH201/Infinite series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Schedules/My Spring Schedule 2021-2022.md",
+                "file": "University/MATH201/Infinite series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Schedules/My Spring Schedule 2021-2022.md"
+                "file": "University/MATH201/Infinite series.md"
               }
             }
           },
@@ -144,8 +144,8 @@
   },
   "active": "71df50fd9492ac24",
   "lastOpenFiles": [
-    "University/Schedules/My Spring Schedule 2021-2022.md",
     "University/MATH201/Infinite series.md",
+    "University/Schedules/My Spring Schedule 2021-2022.md",
     "University/MATH201/!Reference List.md",
     "University/Schedules/Untitled.md",
     "University/MATH201/Alternating series.md",

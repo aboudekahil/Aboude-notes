@@ -13,4 +13,6 @@ ___
 
 Infinite series are the sum of infinitely many numbers related in a given way and listed in a given order.
 
+For an infinite series $a_1 + a_2 + a_3 +\cdots$, a quantity $S_n = a_1 + a_2 +\cdots+ a_n$, which involves adding only the first n terms, is called a partial sum of the series.
+
 ## Reference

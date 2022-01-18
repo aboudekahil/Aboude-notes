@@ -81,6 +81,9 @@ This observation leads to the conclusion that
 ```ad-definition
 Suppose that $f(x)$ is a continuous, positive and decreasing function on the interval $\Big[k,\infty\Big)$ and that $f(n)=an$ **then**,
 
-1. if $$
+1. >  if $$\int_{k}^{\infty} f(x) dx$$ is convergent, so is $$\sum^{\infty}_{n=k}a_n$$
 
+
+2. > if $$\int_{k}^{\infty} f(x) dx$$ is divergent, so is $$\sum^{\infty}_{n=k}a_n$$
+```
 ## Reference

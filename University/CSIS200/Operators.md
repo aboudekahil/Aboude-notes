@@ -52,7 +52,16 @@ Last modified: 2021-12-04-22:18
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Unary, Binary, Ternary</span>
 
-There exist another classification of operators, which devides operators on how many operands are used on an operator
+There exist another classification of operators, which devides operators on how many operands (5 + 6, `6` and `5` are operands and `+` is the operator) are used on an operator.
+
+In the classification there exits three main types, `Unary`, `Binary` and `Ternary`
+
+|     Uniary     |             Binary              |          Ternary          |
+|:--------------:|:-------------------------------:|:-------------------------:|
+| - (minus sign) | arithmatic operators (-,+,/,…)  | Conditional operator (?:) |
+|    ! (not)     | Relational operators (<,=,>,>=) |                           |
+|       ++       |     assignment (=, +=, -=)      |                           |
+|       –-       |                                 |                           |
 
 ## Relevant:
 [[Variable types]] | [[Variables]] | [[Booleans]]

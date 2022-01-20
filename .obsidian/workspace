@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/!Reference list.md",
+            "file": "University/CSIS215/Programming structures.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/!Reference list.md",
+                "file": "University/CSIS215/Programming structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/!Reference list.md",
+                "file": "University/CSIS215/Programming structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/!Reference list.md"
+                "file": "University/CSIS215/Programming structures.md"
               }
             }
           },
@@ -143,8 +143,8 @@
   },
   "active": "71df50fd9492ac24",
   "lastOpenFiles": [
-    "University/CSIS215/!Reference list.md",
     "University/CSIS215/Programming structures.md",
+    "University/CSIS215/!Reference list.md",
     "University/CSIS200/Operators.md",
     "University/Schedules/My Spring Schedule 2021-2022.md",
     "University/MATH201/!Reference List.md",

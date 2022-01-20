@@ -66,6 +66,19 @@ switch (day) {
 // Outputs "Thursday" (day 4)
 ```
 
+```ad-note
+You can use multiple cases in the same line
+
+```java
+
+switch(variable/expression){
+
+	case value1: case value2: case value3
+
+}
+
+```
+
 ### <span style="color: #ff5545;text-transform: capitalize;">break keyword</span>
 
 When Java reaches a `break` keyword, it breaks out of the switch block.

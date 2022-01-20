@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Programming structures.md",
+            "file": "University/CSIS200/Switch statements.md",
             "mode": "source"
           }
         }
@@ -85,13 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Programming structures.md",
+                "file": "University/CSIS200/Switch statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Programming structures.md",
+                "file": "University/CSIS200/Switch statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Programming structures.md"
+                "file": "University/CSIS200/Switch statements.md"
               }
             }
           },
@@ -134,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,6 +143,7 @@
   },
   "active": "71df50fd9492ac24",
   "lastOpenFiles": [
+    "University/CSIS200/Switch statements.md",
     "University/CSIS215/Programming structures.md",
     "University/CSIS215/!Reference list.md",
     "University/CSIS200/Operators.md",
@@ -152,7 +152,6 @@
     "University/MATH201/Infinite series.md",
     "University/Schedules/Untitled.md",
     "University/MATH201/Alternating series.md",
-    "University/MATH201/Matrices.md",
-    "Fleeting notes/Everything new in ES2022.md"
+    "University/MATH201/Matrices.md"
   ]
 }

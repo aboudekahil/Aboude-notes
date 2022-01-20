@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS200/Operators.md",
-            "mode": "preview"
+            "file": "University/CSIS215/!Reference list.md",
+            "mode": "source"
           }
         }
       }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198,
-    "collapsed": true
+    "width": 198
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS200/Operators.md",
+                "file": "University/CSIS215/!Reference list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS200/Operators.md",
+                "file": "University/CSIS215/!Reference list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS200/Operators.md"
+                "file": "University/CSIS215/!Reference list.md"
               }
             }
           },
@@ -144,6 +143,8 @@
   },
   "active": "71df50fd9492ac24",
   "lastOpenFiles": [
+    "University/CSIS215/!Reference list.md",
+    "University/CSIS215/Programming structures.md",
     "University/CSIS200/Operators.md",
     "University/Schedules/My Spring Schedule 2021-2022.md",
     "University/MATH201/!Reference List.md",
@@ -151,8 +152,6 @@
     "University/Schedules/Untitled.md",
     "University/MATH201/Alternating series.md",
     "University/MATH201/Matrices.md",
-    "Fleeting notes/Everything new in ES2022.md",
-    "Fleeting notes/Hi rabab.md",
-    "University/Schedules/My Fall Schedule 2021-2022.md"
+    "Fleeting notes/Everything new in ES2022.md"
   ]
 }

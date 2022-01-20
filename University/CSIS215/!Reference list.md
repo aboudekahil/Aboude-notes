@@ -10,6 +10,7 @@ Last modified: 2021-12-28-11:46
 ___
 * [[OOP introduction]]
 
+* [[Programming structures]]
 * [[Classes and Objects]]
 * [[Class attributes]]
 * [[Class methods]]

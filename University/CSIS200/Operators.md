@@ -33,7 +33,7 @@ Last modified: 2021-12-04-22:18
 | \|= |       Or Assign        | x \|= false | x = x \| false |
 | ^=  |       XOr Assign       |  x ^= true  |  x = x ^ true  |
 
-### <span style="color: #ff5545">Comparison Operators</span>
+### <span style="color: #ff5545">Relational Operators</span>
 | Key |        Name        | Example | Result |
 |:---:|:------------------:|:-------:|:------:|
 | ==  |       Equals       | 5 == 5  |  true  |
@@ -50,6 +50,9 @@ Last modified: 2021-12-04-22:18
 |  !   | Not  |      !true      | false  |
 |  ^   | XOr  |  true ^ false   |  true  |
 
----
+### <span style="color: #ff5545;text-transform: capitalize;">Unary, Binary, Ternary</span>
+
+There exist another classification of operators, which devides operators on how many operands are used on an operator
+
 ## Relevant:
 [[Variable types]] | [[Variables]] | [[Booleans]]

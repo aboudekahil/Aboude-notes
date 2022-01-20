@@ -5,7 +5,7 @@ author: aboude
 ___
 
 Created on: 2021-12-0715:07
-Last modified: 2021-12-07-15:07
+Last modified: 2022-01-20-10:31
 
 ___
 
@@ -70,13 +70,15 @@ switch (day) {
 You can use multiple cases in the same line
 
 ```java
-
 switch(variable/expression){
 
-	case value1: case value2: case value3
+	case value1: case value2: case value3:
+		break;
+	
+	default:
+		break;
 
 }
-
 ```
 
 ### <span style="color: #ff5545;text-transform: capitalize;">break keyword</span>
@@ -86,6 +88,8 @@ When Java reaches a `break` keyword, it breaks out of the switch block.
 This will stop the execution of more code and case testing inside the [[Java Syntax|block]].
 
 When a match is found, and the job is done, it's time for a break. There is no need for more testing.
+
+break keyword prevents `fall-through` errors (i.e java will execute everything under the case block you’re in ignoring the rest of the case checks)
 	
 ```ad-info
 A `break` can save a lot of execution time because it "ignores" the execution of all the rest of the code in the switch block.

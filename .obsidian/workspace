@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/Schedules/My Spring Schedule 2021-2022.md",
+            "file": "Side Notes/Everything new in ES2022.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "32546f4f9ea9d837",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Side Notes/Full stack web dev roadmap.md",
             "mode": "source"
           }
         }
@@ -68,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198,
-    "collapsed": true
+    "width": 198
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Schedules/My Spring Schedule 2021-2022.md",
+                "file": "Side Notes/Full stack web dev roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Schedules/My Spring Schedule 2021-2022.md",
+                "file": "Side Notes/Full stack web dev roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Schedules/My Spring Schedule 2021-2022.md"
+                "file": "Side Notes/Full stack web dev roadmap.md"
               }
             }
           },
@@ -141,8 +151,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71df50fd9492ac24",
+  "active": "32546f4f9ea9d837",
   "lastOpenFiles": [
+    "Side Notes/Full stack web dev roadmap.md",
+    "Side Notes/Everything new in ES2022.md",
     "University/Schedules/My Spring Schedule 2021-2022.md",
     "University/CSIS200/Switch statements.md",
     "University/CSIS215/Programming structures.md",
@@ -150,8 +162,6 @@
     "University/CSIS200/Operators.md",
     "University/MATH201/!Reference List.md",
     "University/MATH201/Infinite series.md",
-    "University/Schedules/Untitled.md",
-    "University/MATH201/Alternating series.md",
-    "University/MATH201/Matrices.md"
+    "University/Schedules/Untitled.md"
   ]
 }

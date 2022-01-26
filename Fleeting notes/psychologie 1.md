@@ -9,3 +9,8 @@ doing testing without a hypothisis and research but purely out of research is ba
 skepticisim without curiosty can generate questions
 
 humility is very important 
+
+objectiveness is needed to do research but its hard
+
+the reseach group needs to be big enough and with great variety in order to get specific results
+

@@ -28,7 +28,8 @@ if a student must choose $2$ courses, one from a selection of $4$ and the other 
 ```
 ```ad-example
 title: Example 3
-How many even, four digit numbers: $(0,1,2,5,6,9)$
+How many even, four digit numbers: $(0,1,2,5,6,9)$ where each digit can only be used once?
 ```
+
 
 ## Reference

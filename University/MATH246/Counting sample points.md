@@ -29,7 +29,19 @@ if a student must choose $2$ courses, one from a selection of $4$ and the other 
 ```ad-example
 title: Example 3
 How many even, four digit numbers: $(0,1,2,5,6,9)$ where each digit can only be used once?
+
+first of all we need to look at the number of the conditions put at our number:
+	1. the number has to be 4 digits
+	2. the first number cannot be 0
 ```
 
+### <span style="color: #ff5545;text-transform: capitalize;">Permutation</span>
+It’s the number of ways of permuting $n$ distinct objects (with order):
+
+> $$n!$$
+
+### <span style="color: #ff5545;text-transform: capitalize;">Circle permutation</span>
+It’s the number of ways of permuting $n$ distinct objects in a closed path:
+> $$(n-1)!$$
 
 ## Reference

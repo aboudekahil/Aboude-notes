@@ -15,10 +15,16 @@ title: special case
 if an axperiment resulting in $n$ out comes is repeated $p$ times, the obtained number of outcomes is: 
 > $$n^p$$
 ```
-
+___
 ```ad-example
-If a pair of dice is thrown 1 time, the number of outcomes is 
+title: Example 1
+If a pair of dice is thrown $1$ time, the number of outcomes is 
 > $$6 \times 6 = 6^2$$
+```
+```ad-example
+title: Example 2
+if a student must choose $2$ courses, one from a selection of $4$ and the other from a selection of $2$ then the number of possible outcomes is
+> $$4 \times 2 = 8$$
 ```
 
 ## Reference

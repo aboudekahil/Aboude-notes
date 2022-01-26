@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting notes/psychologie 2.md",
+            "file": "Fleeting notes/Math for probability.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting notes/psychologie 2.md",
+                "file": "Fleeting notes/Math for probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting notes/psychologie 2.md",
+                "file": "Fleeting notes/Math for probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting notes/psychologie 2.md"
+                "file": "Fleeting notes/Math for probability.md"
               }
             }
           },
@@ -142,6 +142,7 @@
   },
   "active": "32546f4f9ea9d837",
   "lastOpenFiles": [
+    "Fleeting notes/Math for probability.md",
     "Fleeting notes/psychologie 2.md",
     "Fleeting notes/psychologie 1.md",
     "Side Notes/Full stack web dev roadmap.md",
@@ -150,7 +151,6 @@
     "University/CSIS200/Switch statements.md",
     "University/CSIS215/Programming structures.md",
     "University/CSIS215/!Reference list.md",
-    "University/CSIS200/Operators.md",
-    "University/MATH201/!Reference List.md"
+    "University/CSIS200/Operators.md"
   ]
 }

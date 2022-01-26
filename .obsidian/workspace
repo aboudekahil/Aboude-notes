@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting notes/Math for probability.md",
+            "file": "University/MATH246/!Reference list.md",
             "mode": "source"
           }
         }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198,
-    "collapsed": true
+    "width": 198
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting notes/Math for probability.md",
+                "file": "University/MATH246/!Reference list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting notes/Math for probability.md",
+                "file": "University/MATH246/!Reference list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting notes/Math for probability.md"
+                "file": "University/MATH246/!Reference list.md"
               }
             }
           },
@@ -143,6 +142,7 @@
   },
   "active": "32546f4f9ea9d837",
   "lastOpenFiles": [
+    "University/MATH246/!Reference list.md",
     "Fleeting notes/Math for probability.md",
     "Fleeting notes/psychologie 2.md",
     "Fleeting notes/psychologie 1.md",
@@ -151,7 +151,6 @@
     "University/Schedules/My Spring Schedule 2021-2022.md",
     "University/CSIS200/Switch statements.md",
     "University/CSIS215/Programming structures.md",
-    "University/CSIS215/!Reference list.md",
-    "University/CSIS200/Operators.md"
+    "University/CSIS215/!Reference list.md"
   ]
 }

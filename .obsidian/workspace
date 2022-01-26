@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/MATH246/!Reference list.md",
+            "file": "University/MATH246/Counting sample points.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198
+    "width": 198,
+    "collapsed": true
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/MATH246/!Reference list.md",
+                "file": "University/MATH246/Counting sample points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/MATH246/!Reference list.md",
+                "file": "University/MATH246/Counting sample points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/MATH246/!Reference list.md"
+                "file": "University/MATH246/Counting sample points.md"
               }
             }
           },
@@ -142,6 +143,7 @@
   },
   "active": "32546f4f9ea9d837",
   "lastOpenFiles": [
+    "University/MATH246/Counting sample points.md",
     "University/MATH246/!Reference list.md",
     "Fleeting notes/Math for probability.md",
     "Fleeting notes/psychologie 2.md",
@@ -150,7 +152,6 @@
     "Side Notes/Everything new in ES2022.md",
     "University/Schedules/My Spring Schedule 2021-2022.md",
     "University/CSIS200/Switch statements.md",
-    "University/CSIS215/Programming structures.md",
-    "University/CSIS215/!Reference list.md"
+    "University/CSIS215/Programming structures.md"
   ]
 }

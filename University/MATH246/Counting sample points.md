@@ -26,5 +26,9 @@ title: Example 2
 if a student must choose $2$ courses, one from a selection of $4$ and the other from a selection of $2$ then the number of possible outcomes is
 > $$4 \times 2 = 8$$
 ```
+```ad-example
+title: Example 3
+How many even, four digit numbers: $(0,1,2,5,6,9)$
+```
 
 ## Reference

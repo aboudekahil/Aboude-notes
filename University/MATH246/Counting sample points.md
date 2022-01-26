@@ -44,4 +44,6 @@ It’s the number of ways of permuting $n$ distinct objects (with order):
 It’s the number of ways of permuting $n$ distinct objects in a closed path:
 > $$(n-1)!$$
 
+### <span style="color: #ff5545;text-transform: capitalize;">Permutation with similar objects</span>
+
 ## Reference

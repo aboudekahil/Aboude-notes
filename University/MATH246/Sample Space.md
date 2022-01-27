@@ -6,7 +6,7 @@ Last modified: 2022-01-27-18:39
 
 ___
 
-### <span style="color: #ff5545;text-transform: capitalize;">What’s a sample space?</span>
+### <span style="color: #ff5545;text-transform: capitalize;">What’s a sample space/set?</span>
 It’s the set of all possible outcomes of a statistical experiment.
 
 More than one sample space can be used to describe the outcomes of an experiment, and sample spaces with a large or infinite number of sample points are described by a statement or rule. 
@@ -28,6 +28,8 @@ The sample space of all the points on the interior of a circle with a radius of 
 **NOTE**: $S$ is uncountable
 ```
 
-### <span style="color: #ff5545;text-transform: capitalize;">Countable vs Uncountable</span>
+### <span style="color: #ff5545;text-transform: capitalize;">Countable vs Uncountable sets</span>
+
+The formal definition of a countable set is a set that conferms to the condition that 
 
 ## Reference

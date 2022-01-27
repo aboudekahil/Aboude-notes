@@ -45,5 +45,13 @@ It’s the number of ways of permuting $n$ distinct objects in a closed path:
 > $$(n-1)!$$
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Permutation with similar objects</span>
+It’s the number of ways of permuting $n$ objects where $n_1$ are similar, $n_2$ are similar $\cdots n_k$ are similar is
+
+> $$\frac{n!}{n_1!\,n_2!\,\cdots\,n_k!}$$
+
+### <span style="color: #ff5545;text-transform: capitalize;">Partitioning into groups</span>
+It’s the number of ways of partitioning $n$ elements into $k$ groups containing respectively $n_1$ elements,$\cdots\,n_k$ elements is:
+
+> $$\frac{n!}{n_1!\,n_2!\,\cdots\,n_k!}$$
 
 ## Reference

@@ -35,5 +35,6 @@ The formal definition of a countable set is a set $a$ whos all elements conferm 
 > $$a_n \in \mathbb{Z}, a_n \notin \mathbb{R}$$
 
 and uncountable sets are any set that isn’t countable
++------–
 
 ## Reference

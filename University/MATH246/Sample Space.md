@@ -28,6 +28,6 @@ The sample space of all the points on the interior of a circle with a radius of 
 **NOTE**: $S$ is uncountable
 ```
 
-### <span style="color: #ff5545;text-transform: capitalize;"></span>
+### <span style="color: #ff5545;text-transform: capitalize;">Countable vs Uncountable</span>
 
 ## Reference

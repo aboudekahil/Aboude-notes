@@ -34,7 +34,15 @@ The formal definition of a countable set is a set $a$ whos all elements conferm 
 
 > $$a_n \in \mathbb{Z}, a_n \notin \mathbb{R}$$
 
-and uncountable sets are any set that isn’t countable
-+------–
+and uncountable sets are any set that doesn’t fit the countable condition
+
+```ad-example
+title: Countable set example
+
+An example of a countable set is all the numbers from $1$ to $\infty$
+```
+```ad-example
+
+```
 
 ## Reference

@@ -25,7 +25,9 @@ The sample space of all the points on the interior of a circle with a radius of 
 
 > $$ S = \{ (x, y) \in \mathbb{R} \text{ such that } x^2 + y^2 < 2^2 \}$$
 
-**NOTE**: S is uncountable
+**NOTE**: $S$ is uncountable
 ```
+
+### <span style="color: #ff5545;text-transform: capitalize;"></span>
 
 ## Reference

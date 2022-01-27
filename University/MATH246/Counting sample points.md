@@ -55,4 +55,4 @@ It’s the number of ways of partitioning $n$ elements into $k$ groups containin
 > $$\frac{n!}{n_1!\,n_2!\,\cdots\,n_k!}$$
 
 ## Reference
-[[Sample Space]]
+[[Sample Space]] | [[Event]]

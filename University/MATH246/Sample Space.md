@@ -30,6 +30,10 @@ The sample space of all the points on the interior of a circle with a radius of 
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Countable vs Uncountable sets</span>
 
-The formal definition of a countable set is a set that conferms to the condition that 
+The formal definition of a countable set is a set $a$ whos all elements conferm to the condition that
+
+> $$a_n \in \mathbb{Z}, a_n \notin \mathbb{R}$$
+
+and uncountable sets are any set that isn’t countable
 
 ## Reference

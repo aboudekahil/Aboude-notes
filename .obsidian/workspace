@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "32546f4f9ea9d837",
+        "id": "45ceb7633cad5bce",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "University/MATH246/Sample Space.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -140,7 +140,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32546f4f9ea9d837",
+  "active": "45ceb7633cad5bce",
   "lastOpenFiles": [
     "University/MATH246/Sample Space.md",
     "University/MATH246/Counting sample points.md",

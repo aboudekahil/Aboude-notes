@@ -17,13 +17,15 @@ Each outcome in a sample space is called an element or member of the sample spac
 title: Example 1
 The sample space of tossing a coin is
 
-> $$ S = \{\text{heads, tails}\} $$
+> $$ S = \{ \text{heads, tails} \} $$
 ```
 ```ad-example
 title: Example 2
-The sample space of all the points on the interior of a circle with a radius of 2 is
+The sample space of all the points on the interior of a circle with a radius of 2 and centered at the origin is
 
-> $$ S = $$
+> $$ S = \{ (x, y) \in \mathbb{R} \text{ such that } x^2 + y^2 < 2^2 \}$$
+
+**NOTE**: S is uncountable
 ```
 
 ## Reference

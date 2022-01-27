@@ -14,9 +14,16 @@ More than one sample space can be used to describe the outcomes of an experiment
 Each outcome in a sample space is called an element or member of the sample space or simply a sample point.
 
 ```ad-example
+title: Example 1
 The sample space of tossing a coin is
 
-> $$S=\bigg{\text{heads, tails}\big}$$
+> $$ S = \{\text{heads, tails}\} $$
+```
+```ad-example
+title: Example 2
+The sample space of all the points on the interior of a circle with a radius of 2 is
+
+> $$ S = $$
 ```
 
 ## Reference

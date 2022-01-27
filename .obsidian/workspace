@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/MATH246/Counting sample points.md",
-            "mode": "preview"
+            "file": "University/MATH246/Sample Space.md",
+            "mode": "source"
           }
         }
       }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198,
-    "collapsed": true
+    "width": 198
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/MATH246/Counting sample points.md",
+                "file": "University/MATH246/Sample Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/MATH246/Counting sample points.md",
+                "file": "University/MATH246/Sample Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/MATH246/Counting sample points.md"
+                "file": "University/MATH246/Sample Space.md"
               }
             }
           },
@@ -143,15 +142,15 @@
   },
   "active": "32546f4f9ea9d837",
   "lastOpenFiles": [
+    "University/MATH246/Sample Space.md",
     "University/MATH246/Counting sample points.md",
-    "University/MATH212/Permutations.md",
     "University/MATH246/!Reference list.md",
+    "University/MATH212/Permutations.md",
     "Fleeting notes/Math for probability.md",
     "Fleeting notes/psychologie 2.md",
     "Fleeting notes/psychologie 1.md",
     "Side Notes/Full stack web dev roadmap.md",
     "Side Notes/Everything new in ES2022.md",
-    "University/Schedules/My Spring Schedule 2021-2022.md",
-    "University/CSIS200/Switch statements.md"
+    "University/Schedules/My Spring Schedule 2021-2022.md"
   ]
 }

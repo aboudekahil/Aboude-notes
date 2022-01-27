@@ -11,4 +11,5 @@ Last modified: 2021-12-28-11:59
 
 ___
 
+- [[Sample Space]]
 - [[Counting sample points]]

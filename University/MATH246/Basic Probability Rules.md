@@ -25,6 +25,18 @@ If $A_1…A_n$ are mutually exclusive **then**
 If $A^\prime$ is the complimentary of $A$ **then**:
 
 > $$A\cup A^\prime = S$$
-> $$1 = P(S) = P(A\cup A^\prime) = P()
+> $$1 = P(S) = P(A\cup A^\prime) = P(A)+P(A^\prime)
+> P(A^\prime) = 1-P(A)
+```
+```ad-definition
+when we have a union of more than one event the formula becomes
+
+> $$P(A\cup B\cup C)=P(A)+P(B)+P(C)-P(A\cap B)-P(A\cap C)-P(B\cap C)+P(A\cap B\cap C)$$
+```
+
+```ad-note
+IF all the sample points are equally likely to occur **then**
+
+> $$P(A)=\frac{\text{number of favorable outcomes}}{\text{number of possible outcomes}}$$
 ```
 ## Reference

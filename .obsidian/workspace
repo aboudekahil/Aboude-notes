@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "114dff3ea944fca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "45ceb7633cad5bce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "University/MATH246/Counting sample points.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02b4fbec162eab59",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fa4f8ba49312320",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c867ce0eaf03fff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b97ad03b607437ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f82fd5d38912327",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a94f519bc28ab5d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 198
+  },
+  "right": {
+    "id": "0cbf1908fb0fc370",
+    "type": "split",
+    "children": [
+      {
+        "id": "c617b59247a47a9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77fb39688c45bfa5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "University/MATH246/Counting sample points.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c7cec2c17d51542",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "University/MATH246/Counting sample points.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2553cfbf8f6e47f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "University/MATH246/Counting sample points.md"
+              }
+            }
+          },
+          {
+            "id": "f93eae85f5c3c872",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "698e8bb25bade1f1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "45ceb7633cad5bce",
+  "lastOpenFiles": [
+    "University/MATH246/Counting sample points.md",
+    "University/MATH246/!Reference list.md",
+    "University/MATH246/Event.md",
+    "University/MATH246/Sample Space.md",
+    "University/MATH212/Permutations.md",
+    "Fleeting notes/Math for probability.md",
+    "Fleeting notes/psychologie 2.md",
+    "Fleeting notes/psychologie 1.md",
+    "Side Notes/Full stack web dev roadmap.md",
+    "Side Notes/Everything new in ES2022.md"
+  ]
+}

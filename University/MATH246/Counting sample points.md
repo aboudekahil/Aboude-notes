@@ -54,5 +54,11 @@ It’s the number of ways of partitioning $n$ elements into $k$ groups containin
 
 > $$\frac{n!}{n_1!\,n_2!\,\cdots\,n_k!}$$
 
+### <span style="color: #ff5545;text-transform: capitalize;">Combination (without repitition)</span>
+
+If you have $n$ distinct object divided into $p$ people in groupe 1 and $n-p$ people in group 2 you use `combination`
+
+> $$\frac{n!}{p!(n-p)!$$
+
 ## Reference
 [[Sample Space]] | [[Event]]

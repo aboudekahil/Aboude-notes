@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/MATH246/Basic Probability Rules.md",
+            "file": "University/MATH246/Counting sample points.md",
             "mode": "preview"
           }
         }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198,
-    "collapsed": true
+    "width": 198
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/MATH246/Basic Probability Rules.md",
+                "file": "University/MATH246/Counting sample points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/MATH246/Basic Probability Rules.md",
+                "file": "University/MATH246/Counting sample points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/MATH246/Basic Probability Rules.md"
+                "file": "University/MATH246/Counting sample points.md"
               }
             }
           },
@@ -143,9 +142,9 @@
   },
   "active": "45ceb7633cad5bce",
   "lastOpenFiles": [
+    "University/MATH246/Counting sample points.md",
     "University/MATH246/Basic Probability Rules.md",
     "University/MATH246/!Reference list.md",
-    "University/MATH246/Counting sample points.md",
     "University/MATH246/Event.md",
     "University/MATH246/Sample Space.md",
     "University/MATH212/Permutations.md",

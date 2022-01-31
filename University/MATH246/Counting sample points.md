@@ -58,7 +58,11 @@ It’s the number of ways of partitioning $n$ elements into $k$ groups containin
 
 If you have $n$ distinct object divided into $p$ people in groupe 1 and $n-p$ people in group 2 you use `combination`
 
-> $$\frac{n!}{p!(n-p)!$$
+> $$\frac{n!}{p!(n-p)!}=C^p_n={n\choose p}$$
+
+### <span style="color: #ff5545;text-transform: capitalize;">Arrangement (without repitition)</span>
+
+It’s the number of ways of choosing $p$ objects out of $n$ distinct objects where the order matters
 
 ## Reference
 [[Sample Space]] | [[Event]]

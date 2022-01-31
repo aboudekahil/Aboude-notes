@@ -15,3 +15,6 @@ ___
 - [[Sample Space]]
 - [[Event]]
 - [[Counting sample points]]
+
+### <span style="color: #ff5545;text-transform: capitalize;">Basic probability rules</span>
+- [[Basic Probability Rules]]

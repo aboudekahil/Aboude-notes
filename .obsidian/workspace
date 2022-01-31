@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/MATH246/Counting sample points.md",
+            "file": "University/MATH212/Sorting Algorithms.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/MATH246/Counting sample points.md",
+                "file": "University/MATH212/Sorting Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/MATH246/Counting sample points.md",
+                "file": "University/MATH212/Sorting Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/MATH246/Counting sample points.md"
+                "file": "University/MATH212/Sorting Algorithms.md"
               }
             }
           },
@@ -142,6 +142,7 @@
   },
   "active": "45ceb7633cad5bce",
   "lastOpenFiles": [
+    "University/MATH212/Sorting Algorithms.md",
     "University/MATH246/Counting sample points.md",
     "University/MATH246/Basic Probability Rules.md",
     "University/MATH246/!Reference list.md",
@@ -150,7 +151,6 @@
     "University/MATH212/Permutations.md",
     "Fleeting notes/Math for probability.md",
     "Fleeting notes/psychologie 2.md",
-    "Fleeting notes/psychologie 1.md",
-    "Side Notes/Full stack web dev roadmap.md"
+    "Fleeting notes/psychologie 1.md"
   ]
 }

@@ -1,8 +1,11 @@
+---
+author: aboude
+---
 # Counting sample points
 ___
 
 Created on: 2022-01-26-12:43
-Last modified: 2022-01-26-12:43
+Last modified: 2022-01-31-12:42
 
 ___
 ### <span style="color: #ff5545;text-transform: capitalize;">Multiplication rule</span>
@@ -63,6 +66,14 @@ If you have $n$ distinct object divided into $p$ people in groupe 1 and $n-p$ pe
 ### <span style="color: #ff5545;text-transform: capitalize;">Arrangement (without repitition)</span>
 
 It’s the number of ways of choosing $p$ objects out of $n$ distinct objects where the order matters
+
+> $$n\times(n-1)\times\cdots\times(n-p+1)$$
+> $$P_n^p = A_n^p = \frac{n!}{(n-p)!}=C^p_n \times p!$$
+
+```ad-note
+number of ways of choosing $p$ objects out of $n$ `with` repitition
+> $$n^p$$
+```
 
 ## Reference
 [[Sample Space]] | [[Event]]

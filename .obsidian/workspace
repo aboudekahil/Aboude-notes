@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "45ceb7633cad5bce",
+        "id": "96abefdb4af98d07",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -140,7 +140,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "45ceb7633cad5bce",
+  "active": "96abefdb4af98d07",
   "lastOpenFiles": [
     "University/CSIS200/Multi-Dimensional Arrays.md",
     "University/CSIS215/!Reference list.md",

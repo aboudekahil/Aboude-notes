@@ -25,7 +25,9 @@ public class Main {
   int y = 3;
 }
 ```
-
+```ad-note
+When defining an attribute, if a value isn't assigned to the attribute, the value will default to certain value bas
+```
 ### <span style="color: #ff5545;text-transform: capitalize;">Accessing attributes</span>
 You can access attributes by creating an object of the class, and by using the dot syntax (`.`):
 
@@ -84,5 +86,6 @@ public class Main {
   }
 }
 ```
+
 ## Reference
 [[Methods]] | [[Modifiers]] | [[Classes and Objects]]

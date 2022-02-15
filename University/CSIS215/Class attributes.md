@@ -6,7 +6,7 @@ author: aboude
 ___
 
 Created on: 2022-01-03-11:56
-Last modified: 2022-01-03-11:56
+Last modified: 2022-02-15-09:43
 
 ___
 
@@ -26,7 +26,12 @@ public class Main {
 }
 ```
 ```ad-note
-When defining an attribute, if a value isn't assigned to the attribute, the value will default to certain value bas
+When defining an attribute, if a value isn't assigned to the attribute, the value will default to certain value based on the type of the attribute.
+
+for `numbers` (int, float, double) the default value is `0`
+for `characters` the default value is `'\u0000'`
+for `booleans` the default value is `false`
+for `none-primitive/reference` types (String, Scanner, any array) the default value is `null`
 ```
 ### <span style="color: #ff5545;text-transform: capitalize;">Accessing attributes</span>
 You can access attributes by creating an object of the class, and by using the dot syntax (`.`):

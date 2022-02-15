@@ -19,4 +19,7 @@ The value `null` means the variable points to nowhere.
 ```
 
 ### <span style="color: #ff5545;text-transform: capitalize;">The garbage collector</span>
+The garbage collector is an automated operation that happens when executing a file to help free up memory when a value is no longer needed.
+
+The garbage collector keeps up with all the reference variables in the program, and when a value is no longer referenced to, i.e the variable is now of the value `null`
 ## Reference

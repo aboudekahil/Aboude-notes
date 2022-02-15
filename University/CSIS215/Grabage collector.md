@@ -10,5 +10,13 @@ Before defining what is a garbage collector we need to define what’s a refence
 
 Being a reference type variable means that instead of the variabe holding the value of the type (for exemple an `int` variable can hold the value of `5` ), it holds a reference or address to where the value is being stored in the memory.
 
-Reference type are more difficult to handle for many reasons, one of them is when passing a reference type as a parameter to a method, instead of passing a copy of the value, you pass a copy of the address/reference, which means you can edit the value of t
+Reference type are more difficult to handle for many reasons, one of them is when passing a reference type as a parameter to a method, instead of passing a copy of the value, you pass a copy of the address/reference, which means you can edit the value of the variable directly within the method.
+
+```ad-note
+`ANY` reference type can be assigned the value of `null`.
+
+The value `null` means the variable points to nowhere.
+```
+
+### <span style="color: #ff5545;text-transform: capitalize;">The garbage collector</span>
 ## Reference

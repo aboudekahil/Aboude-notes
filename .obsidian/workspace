@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Class attributes.md",
-            "mode": "preview"
+            "file": "University/CSIS215/Grabage collector.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Class attributes.md",
+                "file": "University/CSIS215/Grabage collector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Class attributes.md",
+                "file": "University/CSIS215/Grabage collector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Class attributes.md"
+                "file": "University/CSIS215/Grabage collector.md"
               }
             }
           },
@@ -142,6 +142,7 @@
   },
   "active": "96abefdb4af98d07",
   "lastOpenFiles": [
+    "University/CSIS215/Grabage collector.md",
     "University/CSIS215/Class attributes.md",
     "University/CSIS215/Classes and Objects.md",
     "University/CSIS215/OOP introduction.md",
@@ -150,7 +151,6 @@
     "University/MATH212/Sorting Algorithms.md",
     "University/MATH246/Counting sample points.md",
     "University/MATH246/Basic Probability Rules.md",
-    "University/MATH246/!Reference list.md",
-    "University/MATH246/Event.md"
+    "University/MATH246/!Reference list.md"
   ]
 }

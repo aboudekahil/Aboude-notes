@@ -9,6 +9,6 @@ ___
 ### <span style="color: #ff5545;text-transform: capitalize;">What is a blockchain</span>
 A blockchain is a distributed database that is shared among the nodes of a computer network. As a database, a blockchain stores information electronically in digital format.
 
-The b
+The blockchain was first made mainstream by bitcoin and how it uses it as an asset
 
 ## Reference

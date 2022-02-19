@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS215/Encapsulation.md",
-            "mode": "preview"
+            "file": "Side Notes/blockchain/Introduction.md",
+            "mode": "source"
           }
         }
       }
@@ -64,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS215/Encapsulation.md",
+                "file": "Side Notes/blockchain/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS215/Encapsulation.md",
+                "file": "Side Notes/blockchain/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS215/Encapsulation.md"
+                "file": "Side Notes/blockchain/Introduction.md"
               }
             }
           },
@@ -143,15 +142,15 @@
   },
   "active": "96abefdb4af98d07",
   "lastOpenFiles": [
+    "Side Notes/blockchain/Introduction.md",
+    "Fleeting notes/Math for probability.md",
+    "Fleeting notes/psychologie 1.md",
+    "Fleeting notes/psychologie 2.md",
     "University/CSIS215/Encapsulation.md",
     "University/CSIS215/Classes and Objects.md",
     "University/CSIS215/Class methods.md",
     "University/CSIS200/Math class.md",
     "University/MATH212/Proofs.md",
-    "University/CSIS200/While loops.md",
-    "University/MATH201/Gauss’s method.md",
-    "University/CSIS215/Grabage collector.md",
-    "University/MATH201/Table of integration formulas.md",
-    "University/CSIS200/Strings.md"
+    "University/CSIS200/While loops.md"
   ]
 }

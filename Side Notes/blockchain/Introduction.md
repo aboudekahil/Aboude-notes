@@ -38,6 +38,12 @@ The blockchain is pseudo-anonymous so you can interract with it from any differe
 
 #### 3. Speed and Efficiency
 
-The blockchain is way faster at verifying computation and data than banks. Simple arethmatic 
+The blockchain is way faster at verifying computation and data than banks. Simple arithmetic operations like addition and multiplication can take a long time in bank servers, while on the blockchain only take a few seconds.
+
+#### 4. Security and Immutability
+
+Blockchains are immutable, which means they can’t be change, which means they can’t be tampered with or corrupted.
+
+If your computer or the back computer goes down, in the regular world, your data is gone, on the blockchain however, if one or more computer goes down it doesn’t matter because there’s always hundreds more.
 
 ## Reference

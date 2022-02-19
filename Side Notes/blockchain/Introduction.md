@@ -24,5 +24,12 @@ A hybrid smart contract is a smart contract that combines on-blockchain computat
 
 Decentralized means there is no one centralized force that controls the blockchain. It is made up of many individuals.
 
-The Individuals who make up the blockchain are called node operators and they are the independent individuals who run the blockchain
+The Individuals who make up the blockchain are called node operators and they are the independent individuals who run the blockchain.
+
+This is important so no one single entity can control any market.
+
+2. #### Transparency
+
+Anything that happens on the blockchain can be seen by everyone
+
 ## Reference

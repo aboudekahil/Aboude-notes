@@ -20,16 +20,20 @@ A hybrid smart contract is a smart contract that combines on-blockchain computat
 
 ### <span style="color: #ff5545;text-transform: capitalize;">Why use the block chain?</span>
 
-1. #### Decentralized
+#### 1. Decentralized
 
 Decentralized means there is no one centralized force that controls the blockchain. It is made up of many individuals.
 
 The Individuals who make up the blockchain are called node operators and they are the independent individuals who run the blockchain.
 
-This is important so no one single entity can control any market.
+This is important so no one single entity can control any market.		
 
-2. #### Transparency
+#### 2. Transparency
 
-Anything that happens on the blockchain can be seen by everyone
+Anything that happens on the blockchain can be seen by everyone so it has many eyes on it and everyone has to play by the same rules that can be seen by everyone.
+
+The blockchain is pseudo-anonymous so you can interract with it from any differernt account.
+
+
 
 ## Reference

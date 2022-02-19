@@ -36,4 +36,8 @@ The blockchain is pseudo-anonymous so you can interract with it from any differe
 
 
 
+#### 3. Speed and Efficiency
+
+The blockchain is way faster at verifying computation and data than banks. Simple arethmatic 
+
 ## Reference

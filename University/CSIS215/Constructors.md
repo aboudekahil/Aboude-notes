@@ -1,5 +1,6 @@
 ---
 author: aboude
+aliases: [constructor]
 ---
 # Constructors
 ___

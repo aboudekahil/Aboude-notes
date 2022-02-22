@@ -8,9 +8,9 @@ ___
 
 ### <span style="color: #ff5545;text-transform: capitalize;">What is the this keyword</span>
 
-`this` is a self-referential keyword used inside a class to refer to either the class’ attributes or to call its constructor.
+`this` is a self-referential [[Keywords|keyword]] used inside a [[Classes and Objects|class]] to refer to either the [[Classes and Objects|class]]’ [[Class attributes|attributes]] or to call its constructor.
 
-`this` is used when the argument of a method has the same name as a data attribute we want to use
+`this` is used when the argument of a method has the same name as a data [[Class attributes|attribute]] we want to use
 
 ```ad-example
 ```java
@@ -25,7 +25,7 @@ class Time{
 }
 ```
 
-`this` can also be used to call a constructor by using `(arg-list)` operator on `this`
+`this` can also be used to call a [[Constructors|constructor]] by using `(arg-list)` operator on `this`
 
 ```ad-example
 Here, we use `this` to call the three argument constructor in all the other constructos because it will be easier to maintain if we need to change the code AND it'll be easier to read.
@@ -69,4 +69,4 @@ class Time {
 ```
 
 ## Reference
-[[Keywords]]
+[[Keywords]] | [[Classes and Objects]] | [[Class attributes]] | [[Constructors]]

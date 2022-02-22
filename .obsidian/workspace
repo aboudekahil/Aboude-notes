@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "University/CSIS215/this keyword.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -92,7 +92,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -134,12 +134,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "96abefdb4af98d07",
   "lastOpenFiles": [

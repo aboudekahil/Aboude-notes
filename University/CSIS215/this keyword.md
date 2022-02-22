@@ -27,8 +27,45 @@ class Time{
 
 `this` can also be used to call a constructor by using `(arg-list)` operator on `this`
 
+```ad-example
+Here, we use `this` to call the three argument constructor in all the other constructos because it will be easier to maintain if we need to change the code AND it'll be easier to read.
 ```java
-class Time
+class Time {
+	private int hours;
+ 	private int minutes;
+ 	private int seconds;
+
+ 	Time() {
+ 		this(0, 0, 0);
+	}
+
+ 	Time(int hours) {
+		this(hours, 0, 0);
+	}
+
+ 	Time(int hours, int minutes) {
+ 		this(hours, minutes, 0);
+	}
+
+ 	Time(int hours, int minutes, int seconds) {
+
+ 		if (0 <= hours && hours <= 23) {
+ 			this.hours = hours;
+		}
+
+ 		if (0 <= minutes && minutes <= 59) {
+ 			this.minutes = minutes;
+ 		}
+		
+ 		if (0 <= seconds && seconds <= 59) {
+ 			this.seconds = seconds;
+ 		}
+ 	}
+
+ 	Time(Time t) {
+ 		this(t.hours, t.minutes, t.seconds);
+ 	}
+}
 ```
 
 ## Reference

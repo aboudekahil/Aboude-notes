@@ -12,14 +12,23 @@ ___
 
 `this` is used when the argument of a method has the same name as a data attribute we want to use
 
+```ad-example
 ```java
 class Time{
 	int hours;
 	
 	Time(int hours){
-		this.hours = hours; //this.hours refers
+		this.hours = hours; // this.hours refers to the data attribute
+							// while hours refers to the constructors
+							// argument
 	}
 }
+```
+
+`this` can also be used to call a constructor by using `(arg-list)` operator on `this`
+
+```java
+class Time
 ```
 
 ## Reference

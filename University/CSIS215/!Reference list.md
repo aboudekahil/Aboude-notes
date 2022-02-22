@@ -15,6 +15,7 @@ ___
 * [[Class attributes]]
 * [[Class methods]]
 * [[Constructors]]
+* [[this keyword]]
 * [[Modifiers]]
 * [[Encapsulation]]
 * [[Java Packages]]

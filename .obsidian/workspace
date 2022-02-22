@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Side Notes/blockchain/Introduction.md",
+            "file": "University/CSIS215/!Reference list.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side Notes/blockchain/Introduction.md",
+                "file": "University/CSIS215/!Reference list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side Notes/blockchain/Introduction.md",
+                "file": "University/CSIS215/!Reference list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side Notes/blockchain/Introduction.md"
+                "file": "University/CSIS215/!Reference list.md"
               }
             }
           },
@@ -143,6 +143,7 @@
   },
   "active": "96abefdb4af98d07",
   "lastOpenFiles": [
+    "University/CSIS215/!Reference list.md",
     "Side Notes/blockchain/Introduction.md",
     "Fleeting notes/Math for probability.md",
     "Fleeting notes/psychologie 1.md",
@@ -151,7 +152,6 @@
     "University/CSIS215/Classes and Objects.md",
     "University/CSIS215/Class methods.md",
     "University/CSIS200/Math class.md",
-    "University/MATH212/Proofs.md",
-    "University/CSIS200/While loops.md"
+    "University/MATH212/Proofs.md"
   ]
 }

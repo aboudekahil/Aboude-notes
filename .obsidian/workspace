@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS200/Numbers.md",
+            "file": "University/CSIS200/Identifiers.md",
             "mode": "preview"
           }
         }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328,
-    "collapsed": true
+    "width": 328
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS200/Numbers.md",
+                "file": "University/CSIS200/Identifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS200/Numbers.md",
+                "file": "University/CSIS200/Identifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS200/Numbers.md"
+                "file": "University/CSIS200/Identifiers.md"
               }
             }
           },
@@ -144,15 +143,15 @@
   },
   "active": "96abefdb4af98d07",
   "lastOpenFiles": [
-    "University/CSIS200/Numbers.md",
+    "University/CSIS200/Identifiers.md",
     "University/CSIS200/!Reference list.md",
+    "University/CSIS200/Operators.md",
+    "University/CSIS200/Numbers.md",
     "University/CSIS200/Keywords.md",
     "University/CSIS200/Comments.md",
     "University/CSIS200/Java Syntax.md",
     "University/CSIS270/Introduction to SQL.md",
     "University/CSIS270/!Reference list.md",
-    "University/CSIS215/this keyword.md",
-    "University/CSIS215/Constructors.md",
-    "University/CSIS215/!Reference list.md"
+    "University/CSIS215/this keyword.md"
   ]
 }

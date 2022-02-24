@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS200/Java Syntax.md",
+            "file": "University/CSIS200/Numbers.md",
             "mode": "preview"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS200/Java Syntax.md",
+                "file": "University/CSIS200/Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS200/Java Syntax.md",
+                "file": "University/CSIS200/Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS200/Java Syntax.md"
+                "file": "University/CSIS200/Numbers.md"
               }
             }
           },
@@ -144,15 +144,15 @@
   },
   "active": "96abefdb4af98d07",
   "lastOpenFiles": [
-    "University/CSIS200/Java Syntax.md",
+    "University/CSIS200/Numbers.md",
     "University/CSIS200/!Reference list.md",
+    "University/CSIS200/Keywords.md",
+    "University/CSIS200/Comments.md",
+    "University/CSIS200/Java Syntax.md",
     "University/CSIS270/Introduction to SQL.md",
     "University/CSIS270/!Reference list.md",
     "University/CSIS215/this keyword.md",
     "University/CSIS215/Constructors.md",
-    "University/CSIS215/!Reference list.md",
-    "Side Notes/blockchain/Introduction.md",
-    "Fleeting notes/Math for probability.md",
-    "Fleeting notes/psychologie 1.md"
+    "University/CSIS215/!Reference list.md"
   ]
 }

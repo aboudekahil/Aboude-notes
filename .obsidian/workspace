@@ -144,6 +144,7 @@
   "active": "96abefdb4af98d07",
   "lastOpenFiles": [
     "University/CSIS200/!Reference list.md",
+    "University/CSIS200/Variable types.md",
     "University/CSIS200/Variables.md",
     "University/CSIS200/Identifiers.md",
     "University/CSIS200/Operators.md",
@@ -151,7 +152,6 @@
     "University/CSIS200/Keywords.md",
     "University/CSIS200/Comments.md",
     "University/CSIS200/Java Syntax.md",
-    "University/CSIS270/Introduction to SQL.md",
-    "University/CSIS270/!Reference list.md"
+    "University/CSIS270/Introduction to SQL.md"
   ]
 }

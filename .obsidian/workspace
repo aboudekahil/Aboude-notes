@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/CSIS200/!Reference list.md",
-            "mode": "preview"
+            "file": "Fleeting notes/psychologie 1.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328
+    "width": 328,
+    "collapsed": true
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/CSIS200/!Reference list.md",
+                "file": "Fleeting notes/psychologie 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/CSIS200/!Reference list.md",
+                "file": "Fleeting notes/psychologie 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/CSIS200/!Reference list.md"
+                "file": "Fleeting notes/psychologie 1.md"
               }
             }
           },
@@ -143,6 +144,8 @@
   },
   "active": "96abefdb4af98d07",
   "lastOpenFiles": [
+    "Fleeting notes/psychologie 1.md",
+    "Fleeting notes/psychologie 2.md",
     "University/CSIS200/!Reference list.md",
     "University/CSIS200/Variable types.md",
     "University/CSIS200/Variables.md",
@@ -150,8 +153,6 @@
     "University/CSIS200/Operators.md",
     "University/CSIS200/Numbers.md",
     "University/CSIS200/Keywords.md",
-    "University/CSIS200/Comments.md",
-    "University/CSIS200/Java Syntax.md",
-    "University/CSIS270/Introduction to SQL.md"
+    "University/CSIS200/Comments.md"
   ]
 }

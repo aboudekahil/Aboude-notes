@@ -1,16 +1,7 @@
-over confidence can generate errors
+### <span style="color: #ff5545;text-transform: capitalize;">Scientific method</span>
 
-getting 5 heads in a row in a coin flip does not mean you’re cheating
-
-curiosity can lead to death
-
-doing testing without a hypothisis and research but purely out of research is bad
-
-skepticisim without curiosty can generate questions
-
-humility is very important 
-
-objectiveness is needed to do research but its hard
-
-the reseach group needs to be big enough and with great variety in order to get specific results
+##### Where natural thinking fails:
+- Hindsight bias, Example: “I knew it all along”
+- Coincidence error, Example “Dice is fixed because you got a 6 5 times”
+- Overconfidence error, Example “I am sure I am correct”
 

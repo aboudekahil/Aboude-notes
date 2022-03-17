@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "this keyword",
+                "query": "selection so",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,12 +64,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 328,
-    "collapsed": true
+    "width": 328
   },
   "right": {
     "id": "0cbf1908fb0fc370",

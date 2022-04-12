@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting notes/psychologie 1.md",
-            "mode": "source"
+            "file": "University/CSIS215/Java Exceptions.md",
+            "mode": "preview"
           }
         }
       }
@@ -64,12 +64,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 328
+    "width": 328,
+    "collapsed": true
   },
   "right": {
     "id": "0cbf1908fb0fc370",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting notes/psychologie 1.md",
+                "file": "University/CSIS215/Java Exceptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting notes/psychologie 1.md",
+                "file": "University/CSIS215/Java Exceptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting notes/psychologie 1.md"
+                "file": "University/CSIS215/Java Exceptions.md"
               }
             }
           },
@@ -144,6 +144,8 @@
   },
   "active": "96abefdb4af98d07",
   "lastOpenFiles": [
+    "University/CSIS215/Java Exceptions.md",
+    "University/CSIS215/!Reference list.md",
     "Fleeting notes/psychologie 1.md",
     "Fleeting notes/psychologie 2.md",
     "University/CSIS200/!Reference list.md",
@@ -151,8 +153,6 @@
     "University/CSIS200/Variables.md",
     "University/CSIS200/Identifiers.md",
     "University/CSIS200/Operators.md",
-    "University/CSIS200/Numbers.md",
-    "University/CSIS200/Keywords.md",
-    "University/CSIS200/Comments.md"
+    "University/CSIS200/Numbers.md"
   ]
 }
